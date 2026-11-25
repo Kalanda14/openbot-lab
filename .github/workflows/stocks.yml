@@ -1,0 +1,18 @@
+name: stocks
+on: workflow_dispatch
+jobs:
+  s:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        sym: [AAPLUSUSD,MSFTUSUSD,AMZNUSUSD,GOOGLUSUSD,NVDAUSUSD,TSLAUSUSD,AMDUSUSD,NFLXUSUSD,INTCUSUSD,BAUSUSD,JPMUSUSD,BACUSUSD,CUSUSD,WFCUSUSD,XOMUSUSD,CVXUSUSD,PFEUSUSD,MRKUSUSD,KOUSUSD,PEPUSUSD,WMTUSUSD,HDUSUSD,DISUSUSD,NKEUSUSD,MCDUSUSD,VUSUSD,MAUSUSD,PYPLUSUSD,ADBEUSUSD,CRMUSUSD,ORCLUSUSD,CSCOUSUSD,QCOMUSUSD,AVGOUSUSD,TXNUSUSD,IBMUSUSD,GSUSUSD,MSUSUSD,TUSUSD,VZUSUSD,CMCSAUSUSD,ABTUSUSD,TMOUSUSD,UNHUSUSD,LLYUSUSD,JNJUSUSD,PGUSUSD,COSTUSUSD,SBUXUSUSD,UBERUSUSD,SNOWUSUSD,PLTRUSUSD,MUUSUSD,FUSUSD,GMUSUSD,CATUSUSD,DEUSUSD,GEUSUSD,MMMUSUSD,HONUSUSD,LMTUSUSD,RTXUSUSD,UPSUSUSD,FDXUSUSD,BABAUSUSD,SQUSUSD,ZMUSUSD]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy requests
+      - run: python stocks.py ${{ matrix.sym }} 2017-01-01 2026-11-24
+      - uses: actions/upload-artifact@v4
+        with: {name: "stk-${{ matrix.sym }}", path: "stk_*.csv"}
