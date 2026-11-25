@@ -1,0 +1,28 @@
+name: bt7
+on: workflow_dispatch
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        ses: [{n: us, open: "09:30"}, {n: eu, open: "03:00"}]
+        year: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+    env: {OUT: data/full, VOL: "1", SYM: USATECHIDXUSD, TZ_MKT: America/New_York, OPEN: "${{ matrix.ses.open }}", MINUTES: "390", DAILY: "bt7_${{ matrix.ses.n }}_${{ matrix.year }}.csv"}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy requests
+      - uses: actions/cache/restore@v4
+        with: {path: data/full, key: "nqv-${{ matrix.ses.n }}-${{ matrix.year }}-none", restore-keys: "nqv-${{ matrix.ses.n }}-${{ matrix.year }}-"}
+      - run: |
+          for i in 1 2 3; do python fetch.py ${{ matrix.year }}-01-01 ${{ matrix.year }}-12-31 > fetch.log; grep -c SKIP fetch.log || break; done
+          grep -m2 bars fetch.log || true
+      - uses: actions/cache/save@v4
+        if: always()
+        with: {path: data/full, key: "nqv-${{ matrix.ses.n }}-${{ matrix.year }}-${{ github.run_id }}"}
+      - run: python bt7.py
+      - uses: actions/upload-artifact@v4
+        with: {name: "bt7-${{ matrix.ses.n }}-${{ matrix.year }}", path: "bt7_*.csv"}
