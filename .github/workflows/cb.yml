@@ -1,0 +1,15 @@
+name: cb
+on: workflow_dispatch
+jobs:
+  crypto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy: {fail-fast: false, matrix: {sym: [BTCUSDT, ETHUSDT]}}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy requests
+      - run: python cryptoB.py ${{ matrix.sym }}
+      - uses: actions/upload-artifact@v4
+        with: {name: "cb-${{ matrix.sym }}", path: "cb_*.csv"}

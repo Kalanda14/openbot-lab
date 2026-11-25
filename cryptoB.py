@@ -13,14 +13,15 @@ for y in range(2018, 2027):
         z = zipfile.ZipFile(io.BytesIO(r.content)); d = pd.read_csv(z.open(z.namelist()[0]), header=None, usecols=[0, 1, 2, 3, 4, 5])
         parts.append(d)
 k = pd.concat(parts); k.columns = ["t", "open", "high", "low", "close", "vol"]
-k["t"] = pd.to_datetime(k.t.astype("int64") // (1000 if k.t.max() > 1e14 else 1), unit="ms", utc=True).dt.tz_convert(ZoneInfo("America/New_York"))
-k = k.set_index("t").sort_index()
+t = k.t.astype("int64"); t = t.where(t < 10**14, t // 1000)  # 2025+ archive uses microseconds
+k["t"] = pd.to_datetime(t, unit="ms", utc=True).dt.tz_convert(ZoneInfo("America/New_York"))
+k = k.set_index("t").sort_index(); k = k[~k.index.duplicated()]
 days = []
 for d, g in k.groupby(k.index.date):
     if pd.Timestamp(d).weekday() >= 5: continue
     s = g.between_time("09:30", "15:59")
     if len(s) < 300: continue
-    m = s.copy(); m.index = (m.index.hour * 60 + m.index.minute - 570)
+    m = s.copy(); m.index = (m.index.hour * 60 + m.index.minute - 570); m = m[~m.index.duplicated()]
     m = m.reindex(range(390)).ffill().bfill()
     days.append((pd.Timestamp(d), m))
 rows, hist, rets = [], [], []
