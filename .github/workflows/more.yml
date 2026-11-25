@@ -1,0 +1,35 @@
+name: more
+on: workflow_dispatch
+jobs:
+  crypto:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    strategy: {fail-fast: false, matrix: {sym: [BTCUSDT, ETHUSDT]}}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy requests
+      - run: python cryptoB.py ${{ matrix.sym }}
+      - uses: actions/upload-artifact@v4
+        with: {name: "cb-${{ matrix.sym }}", path: "cb_*.csv"}
+  idx:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    strategy:
+      fail-fast: false
+      matrix:
+        mk: [{n: rut, sym: USSC2000IDXUSD}, {n: dji, sym: USA30IDXUSD}]
+        year: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]
+    env: {OUT: data/full, VOL: "1", SYM: "${{ matrix.mk.sym }}", TZ_MKT: America/New_York, OPEN: "09:30", MINUTES: "390", COSTPCT: "0.01", DAILY: "bt7_${{ matrix.mk.n }}_${{ matrix.year }}.csv"}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy requests
+      - run: |
+          for i in 1 2 3; do python fetch.py ${{ matrix.year }}-01-01 ${{ matrix.year }}-12-31 > fetch.log; grep -c SKIP fetch.log || break; done
+          grep -m2 bars fetch.log || true
+      - run: python bt7.py
+      - uses: actions/upload-artifact@v4
+        with: {name: "idx-${{ matrix.mk.n }}-${{ matrix.year }}", path: "bt7_*.csv"}
