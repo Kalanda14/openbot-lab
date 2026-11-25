@@ -50,6 +50,18 @@ if __name__ == "__main__":
                         stop = o * (1 - side * 1.2 * sg[k])
                         p, w = trade(H, L, C, k, side, lvl, o, stop, 385); p1 += p - RT; w1 += w - RT; break
             r["R1"], r["wR1"] = p1 / o * 100, w1 / o * 100
+            # R4 = early momentum (reverse of R1, realistic fill): price reaches open +/- 0.7*sigma -> go WITH it,
+            # fill at the worse of level / bar open, target open +/- 1.2*sigma, stop at the open. One per side.
+            p4 = w4 = 0.0; n4 = 0
+            for side in (1, -1):
+                for k in range(30, 330):
+                    lvl = o * (1 + side * 0.7 * sg[k])
+                    if (side == 1 and H[k] >= lvl) or (side == -1 and L[k] <= lvl):
+                        e = max(O[k], lvl) if side == 1 else min(O[k], lvl)
+                        tgt = o * (1 + side * 1.2 * sg[k])
+                        if (side == 1 and e >= tgt) or (side == -1 and e <= tgt): break
+                        p, w = trade(H, L, C, k, side, e, tgt, o, 385); p4 += p - RT; w4 += w - RT; n4 += 1; break
+            r["R4"], r["wR4"], r["nR4"] = p4 / o * 100, w4 / o * 100, n4
             # R2
             g = o / pc - 1; p2 = w2 = 0.0
             if 0.001 < abs(g) < 0.006:
