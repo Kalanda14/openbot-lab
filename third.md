@@ -1,0 +1,12 @@
+>> target EUR 533 in 1 month | backtest | cap 15x | P(hit) 35% | P(lose >50%) 0% | median end EUR 482
+>> target EUR 533 in 1 month | backtest | cap 30x | P(hit) 48% | P(lose >50%) 3% | median end EUR 531
+>> target EUR 533 in 1 month | cautious | cap 15x | P(hit) 26% | P(lose >50%) 0% | median end EUR 451
+>> target EUR 533 in 1 month | cautious | cap 30x | P(hit) 37% | P(lose >50%) 4% | median end EUR 502
+>> target EUR 600 in 1 month | backtest | cap 15x | P(hit) 16% | P(lose >50%) 0% | median end EUR 469
+>> target EUR 600 in 1 month | backtest | cap 30x | P(hit) 36% | P(lose >50%) 3% | median end EUR 546
+>> target EUR 600 in 1 month | cautious | cap 15x | P(hit) 11% | P(lose >50%) 0% | median end EUR 441
+>> target EUR 600 in 1 month | cautious | cap 30x | P(hit) 27% | P(lose >50%) 4% | median end EUR 493
+>> target EUR 800 in 1 month | backtest | cap 15x | P(hit) 4% | P(lose >50%) 0% | median end EUR 466
+>> target EUR 800 in 1 month | backtest | cap 30x | P(hit) 15% | P(lose >50%) 5% | median end EUR 516
+>> target EUR 800 in 1 month | cautious | cap 15x | P(hit) 2% | P(lose >50%) 0% | median end EUR 439
+>> target EUR 800 in 1 month | cautious | cap 30x | P(hit) 10% | P(lose >50%) 7% | median end EUR 461
