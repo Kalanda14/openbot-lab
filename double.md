@@ -1,0 +1,6 @@
+> backtest cap 30: P(800 in month 1) 3% | P(<100 after month 1) 2% | P(10k in 12 mo) 77% [if doubled 33%, if not 79%]
+> backtest cap 45: P(800 in month 1) 6% | P(<100 after month 1) 12% | P(10k in 12 mo) 78% [if doubled 58%, if not 80%]
+> backtest cap 100: P(800 in month 1) 9% | P(<100 after month 1) 12% | P(10k in 12 mo) 67% [if doubled 67%, if not 67%]
+> cautious cap 30: P(800 in month 1) 2% | P(<100 after month 1) 3% | P(10k in 12 mo) 47% [if doubled 25%, if not 48%]
+> cautious cap 45: P(800 in month 1) 5% | P(<100 after month 1) 12% | P(10k in 12 mo) 56% [if doubled 40%, if not 57%]
+> cautious cap 100: P(800 in month 1) 9% | P(<100 after month 1) 13% | P(10k in 12 mo) 54% [if doubled 53%, if not 54%]
