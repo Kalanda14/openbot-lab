@@ -78,6 +78,7 @@ def step(a, r, T, i, w):
     if r["monthly"] and a["ph"] == "eval" and a["d"] and a["d"] % 21 == 0:
         if w < r["fee"]: return None, w
         w -= r["fee"]
+    if a["ph"] == "eval" and r.get("elim") and a["d"] >= r["elim"]: return None, w  # eval time limit (trading days)
     tb = T[0] if a["ph"] == "eval" else (T[2] if a["np"] else T[1])
     p, wo, be = tb[0][i], tb[1][i], tb[2][i]
     a["d"] += 1
@@ -105,6 +106,7 @@ def step(a, r, T, i, w):
     if not ok: return a, w
     avail = (a["bal"] - START) * r["frac"] if r.get("floor_after_pay") else (a["bal"] - START - r["buffer"]) * r["frac"]
     x = min(avail, r["caps"][min(a["np"], len(r["caps"]) - 1)])
+    if r.get("cap2x"): x = min(x, 2 * max(since, 0))
     if x < max(r["minpay"], 1): return a, w
     a["bal"] -= x; w += x * r["split"]; a["np"] += 1; a["sd"] = a["nw"] = 0; a["pb"] = 0.0; a["pbase"] = a["bal"]
     if r.get("maxpay") and a["np"] >= r["maxpay"]: return None, w
