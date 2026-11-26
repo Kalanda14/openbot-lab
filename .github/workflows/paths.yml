@@ -1,0 +1,19 @@
+name: paths
+on: workflow_dispatch
+jobs:
+  b:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix: {year: [2017, 2018, 2019, 2020, 2021, 2022, 2023, 2024, 2025, 2026]}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install pandas numpy
+      - uses: actions/cache/restore@v4
+        with: {path: data/full, key: "nqv-us-${{ matrix.year }}-none", restore-keys: "nqv-us-${{ matrix.year }}-"}
+      - run: ls data/full | wc -l && python paths.py ${{ matrix.year }}
+      - uses: actions/upload-artifact@v4
+        with: {name: "paths-${{ matrix.year }}", path: "paths_*.npz"}
