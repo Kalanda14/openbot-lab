@@ -5,3 +5,4 @@ __pycache__/
 *.csv.gz
 pathsd/
 *.npz
+dbdata/

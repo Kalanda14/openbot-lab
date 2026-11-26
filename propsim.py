@@ -42,7 +42,8 @@ START, BUDGET, SLIP = 50000.0, 400.0, 0.25
 
 
 def load():
-    fs = sorted(glob.glob("**/paths_*.npz", recursive=True))
+    import os
+    fs = sorted(glob.glob(os.environ.get("PATHS", "pathsd/**/paths_*.npz"), recursive=True))
     z = [np.load(f) for f in fs]
     d = np.concatenate([x["d"] for x in z]); px = np.concatenate([x["px"] for x in z])
     m = np.concatenate([x["mtm"] for x in z]).astype(float); lo = np.concatenate([x["low"] for x in z]).astype(float)
