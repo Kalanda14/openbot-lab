@@ -16,3 +16,9 @@
 > deposit 200/mo + 2x Apex50K forward1.2: 12 mo P 68%, wipe 1%
 > deposit 250/mo + 2x Apex50K backtest: 12 mo P 78%, wipe 1%
 > deposit 250/mo + 2x Apex50K forward1.2: 12 mo P 73%, wipe 1%
+> deposit 300/mo + 2x Apex50K backtest: 12 mo P 79%, wipe 0%
+> deposit 300/mo + 2x Apex50K forward1.2: 12 mo P 76%, wipe 1%
+> deposit 350/mo + 2x Apex50K backtest: 12 mo P 85%, wipe 0%
+> deposit 350/mo + 2x Apex50K forward1.2: 12 mo P 79%, wipe 0%
+> deposit 400/mo + 2x Apex50K backtest: 12 mo P 92%, wipe 0%
+> deposit 400/mo + 2x Apex50K forward1.2: 12 mo P 81%, wipe 0%
