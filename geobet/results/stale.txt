@@ -1,0 +1,20 @@
+snapshots 6 series 7177
+consecutive pairs 35824; soft odds changed in 346 (1.0%)
+PM fair moved >=3pp: 30; soft followed in same window: 17 (56.7%)
+series ever with edge>0: 10
+   crocobet Emmen - Helmond tot 2.5 Under [0.306, 0.306, 0.306, 0.306, 0.306, 0.306]
+   crocobet Biesheim - Racing Besancon 1x2 None 2 [-0.133, -0.146, 0.037]
+   crocobet Ospitaletto - Union Brescia 1x2 None 1 [0.003, 0.003, 0.003, 0.003, 0.003, 0.003]
+   betlive Emmen - Helmond tot 2.5 Under [0.306, 0.306, 0.306, 0.306, 0.306, 0.306]
+   betlive Biesheim Asc - Racing Besancon 1x2 None 2 [-0.133, -0.146, 0.037]
+   betlive Acd Ospitaletto - Union Brescia 1x2 None 1 [0.003, 0.003, 0.003, 0.003, 0.003, 0.003]
+   crocobet Emmen - Helmond tot 4.5 Over [0.33, 0.33, 0.33, 0.288]
+   betlive Emmen - Helmond tot 4.5 Over [0.33, 0.33, 0.33, 0.288]
+   crocobet Chambly - Avranches 1x2 None 2 [-0.12, 0.064]
+   betlive Chambly - Avranches 1x2 None 2 [-0.12, 0.028]
+20261127T202840Z.json n 7300 median -0.107 >0 4 >2% 2 >5% 2
+20261127T204419Z.json n 6998 median -0.107 >0 6 >2% 4 >5% 4
+20261127T205938Z.json n 7032 median -0.107 >0 6 >2% 4 >5% 4
+20261127T211459Z.json n 7363 median -0.107 >0 8 >2% 6 >5% 4
+20261127T213018Z.json n 7259 median -0.107 >0 4 >2% 2 >5% 2
+20261127T214534Z.json n 7049 median -0.108 >0 8 >2% 6 >5% 5

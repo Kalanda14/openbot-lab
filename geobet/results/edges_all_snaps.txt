@@ -1,0 +1,318 @@
+
+=== 20261127T202507Z.json  rows=11020 usable=7422 events=691  excluded_anomalies(|pm-book|>0.20)=0 in 0 events: []
+betlive   n= 3719 median edge=-0.107  mean=-0.129  >0:  20  >2%:  18  >5%: 17  edge_lo>2%: 17  median overround=0.121
+   Soccer        tot   n= 2391 med=-0.099 p90=-0.041 >2%: 11 >5%: 10  overround=0.120
+   Soccer        1x2   n=  810 med=-0.121 p90=-0.068 >2%:  3 >5%:  3  overround=0.130
+   Soccer        btts  n=  406 med=-0.108 p90=-0.075 >2%:  3 >5%:  3  overround=0.119
+   Basketball    ml    n=   78 med=-0.094 p90=-0.016 >2%:  1 >5%:  1  overround=0.116
+   Tennis        ml    n=   20 med=-0.108 p90=-0.056 >2%:  0 >5%:  0  overround=0.120
+   Darts         ml    n=   10 med=-0.116 p90=-0.050 >2%:  0 >5%:  0  overround=0.122
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+   ES Valorant   ml    n=    2 med=-0.122 p90=-0.078 >2%:  0 >5%:  0  overround=0.125
+crocobet  n= 3703 median edge=-0.107  mean=-0.130  >0:   6  >2%:   5  >5%:  5  edge_lo>2%:  5  median overround=0.121
+   Soccer        tot   n= 2439 med=-0.099 p90=-0.042 >2%:  3 >5%:  3  overround=0.120
+   Soccer        1x2   n=  830 med=-0.120 p90=-0.068 >2%:  1 >5%:  1  overround=0.130
+   Soccer        btts  n=  416 med=-0.108 p90=-0.076 >2%:  1 >5%:  1  overround=0.119
+   Tennis        ml    n=    8 med=-0.126 p90=-0.079 >2%:  0 >5%:  0  overround=0.138
+   ES Valorant   ml    n=    4 med=-0.122 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   Darts         ml    n=    2 med=-0.116 p90=-0.102 >2%:  0 >5%:  0  overround=0.125
+   Basketball    ml    n=    2 med=-0.120 p90=-0.097 >2%:  0 >5%:  0  overround=0.121
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +3.691 lo=+3.664 betlive  Basketball ml        2     @5.3   fair=0.885 spr=0.010 m=0.93 Northwestern - Northeastern            | Northeastern Huskies vs Northwestern W h=4.58
+   +2.711 lo=+2.685 crocobet Soccer     1x2       X     @3.85  fair=0.964 spr=0.014 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +2.711 lo=+2.685 betlive  Soccer     1x2       X     @3.85  fair=0.964 spr=0.014 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +1.425 lo=+1.350 crocobet Soccer     tot  1.5  Under @5.0   fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +1.425 lo=+1.350 betlive  Soccer     tot  1.5  Under @5     fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.445 lo=+0.428 betlive  Soccer     1x2       1     @3.5   fair=0.413 spr=0.010 m=0.93 FC Anyang (Srl) - Jeju United Fc (srl) | FC Anyang vs Jeju SK FC h=6.08
+   +0.382 lo=+0.340 crocobet Soccer     tot  4.5  Over  @2.85  fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.382 lo=+0.340 betlive  Soccer     tot  4.5  Over  @2.85  fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.360 lo=+0.320 betlive  Soccer     tot  3.5  Over  @4     fair=0.340 spr=0.020 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.296 lo=+0.269 crocobet Soccer     tot  2.5  Under @2.7   fair=0.480 spr=0.020 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.296 lo=+0.269 betlive  Soccer     tot  2.5  Under @2.7   fair=0.480 spr=0.020 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.288 lo=+0.265 betlive  Soccer     tot  2.5  Over  @2.3   fair=0.560 spr=0.020 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.237 lo=+0.199 crocobet Soccer     btts      No    @2.55  fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.237 lo=+0.199 betlive  Soccer     btts      No    @2.55  fair=0.485 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.08
+   +0.200 lo=+0.180 betlive  Soccer     btts      Yes   @2     fair=0.600 spr=0.020 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.174 lo=+0.155 betlive  Soccer     tot  3.5  Over  @3.85  fair=0.305 spr=0.010 m=0.93 FC Anyang (Srl) - Jeju United Fc (srl) | FC Anyang vs Jeju SK FC h=6.08
+   +0.155 lo=+0.122 betlive  Soccer     tot  2.5  Over  @2.2   fair=0.525 spr=0.030 m=0.93 FC Anyang (Srl) - Jeju United Fc (srl) | FC Anyang vs Jeju SK FC h=6.08
+   +0.150 lo=+0.140 betlive  Soccer     btts      Yes   @2     fair=0.575 spr=0.010 m=0.93 FC Anyang (Srl) - Jeju United Fc (srl) | FC Anyang vs Jeju SK FC h=6.08
+   +0.130 lo=+0.115 betlive  Soccer     tot  1.5  Over  @1.43  fair=0.790 spr=0.020 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.126 lo=+0.110 betlive  Soccer     1x2       2     @3.1   fair=0.363 spr=0.010 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.122 lo=+0.056 betlive  Soccer     tot  4.5  Over  @6.6   fair=0.170 spr=0.020 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.063 lo=+0.056 betlive  Soccer     tot  1.5  Over  @1.39  fair=0.765 spr=0.010 m=0.93 FC Anyang (Srl) - Jeju United Fc (srl) | FC Anyang vs Jeju SK FC h=6.08
+   +0.021 lo=+0.015 betlive  Soccer     tot  0.5  Over  @1.08  fair=0.945 spr=0.010 m=0.95 FC Seoul (SRL) - Daejeon Citizen FC (S | FC Seoul vs Daejeon Hana Citizen FC h=6.08
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=20.08
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=20.08
+
+=== 20261127T202840Z.json  rows=10964 usable=7268 events=676  excluded_anomalies(|pm-book|>0.20)=8 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3622 median edge=-0.107  mean=-0.131  >0:   2  >2%:   1  >5%:  1  edge_lo>2%:  1  median overround=0.121
+   Soccer        tot   n= 2335 med=-0.099 p90=-0.042 >2%:  1 >5%:  1  overround=0.120
+   Soccer        1x2   n=  797 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  394 med=-0.108 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   72 med=-0.092 p90=-0.017 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   14 med=-0.106 p90=-0.056 >2%:  0 >5%:  0  overround=0.120
+   Darts         ml    n=    8 med=-0.116 p90=-0.076 >2%:  0 >5%:  0  overround=0.123
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+crocobet  n= 3646 median edge=-0.107  mean=-0.132  >0:   2  >2%:   1  >5%:  1  edge_lo>2%:  1  median overround=0.121
+   Soccer        tot   n= 2404 med=-0.099 p90=-0.042 >2%:  1 >5%:  1  overround=0.120
+   Soccer        1x2   n=  822 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  408 med=-0.108 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Tennis        ml    n=    4 med=-0.113 p90=-0.079 >2%:  0 >5%:  0  overround=0.131
+   Darts         ml    n=    2 med=-0.116 p90=-0.102 >2%:  0 >5%:  0  overround=0.125
+   Basketball    ml    n=    2 med=-0.120 p90=-0.097 >2%:  0 >5%:  0  overround=0.121
+   ES Valorant   ml    n=    2 med=-0.138 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.02
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=19.02
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=20.02
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=20.02
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=4.02
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Villanova Wildcats  W - LSU Tigers W   | Villanova Wildcats vs LSU Tigers (W) h=1.02
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Maine Black Bears W - Kentucky Wildcat | Maine Black Bears vs Kentucky Wildcats h=1.27
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=2.02
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=1.52
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=1.52
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.52
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.52
+   -0.006 lo=-0.033 crocobet Soccer     1x2       1     @2.7   fair=0.368 spr=0.020 m=0.95 GV San Jose - Real Potosi              | GV CD San José vs Bamin Real Potosí h=22.52
+   -0.006 lo=-0.033 betlive  Soccer     1x2       1     @2.7   fair=0.368 spr=0.020 m=0.94 GV Club Deportivo San Jose de Oruro -  | GV CD San José vs Bamin Real Potosí h=22.52
+   -0.007 lo=-0.009 betlive  Basketball ml        1     @1.01  fair=0.983 spr=0.004 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=2.52
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=21.02
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=23.52
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=21.02
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=23.52
+   -0.010 lo=-0.019 betlive  Basketball ml        1     @1.01  fair=0.981 spr=0.019 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=5.52
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=21.27
+   -0.012 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.52
+   -0.012 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.52
+   -0.013 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.005 m=1.00 Millonarios - America De Cali          | Millonarios FC vs América de Cali h=5.19
+   -0.013 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.005 m=1.00 Millonarios - America Cali             | Millonarios FC vs América de Cali h=5.19
+
+=== 20261127T204419Z.json  rows=10938 usable=6998 events=679  excluded_anomalies(|pm-book|>0.20)=16 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3495 median edge=-0.107  mean=-0.132  >0:   3  >2%:   2  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2239 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  787 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  370 med=-0.107 p90=-0.075 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   75 med=-0.091 p90=-0.016 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   18 med=-0.106 p90=-0.056 >2%:  0 >5%:  0  overround=0.120
+   Darts         ml    n=    4 med=-0.119 p90=-0.081 >2%:  0 >5%:  0  overround=0.123
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+crocobet  n= 3503 median edge=-0.107  mean=-0.132  >0:   3  >2%:   2  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2298 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  815 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  380 med=-0.107 p90=-0.075 >2%:  0 >5%:  0  overround=0.119
+   Tennis        ml    n=    4 med=-0.113 p90=-0.079 >2%:  0 >5%:  0  overround=0.131
+   Basketball    ml    n=    2 med=-0.120 p90=-0.097 >2%:  0 >5%:  0  overround=0.121
+   ES Valorant   ml    n=    2 med=-0.138 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.330 lo=+0.288 crocobet Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.76
+   +0.330 lo=+0.288 betlive  Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.76
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.76
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.76
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=19.76
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=19.76
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=3.76
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Villanova Wildcats  W - LSU Tigers W   | Villanova Wildcats vs LSU Tigers (W) h=0.76
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Maine Black Bears W - Kentucky Wildcat | Maine Black Bears vs Kentucky Wildcats h=1.01
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=1.76
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=1.26
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=1.26
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.26
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.26
+   -0.006 lo=-0.033 crocobet Soccer     1x2       1     @2.7   fair=0.368 spr=0.020 m=0.95 GV San Jose - Real Potosi              | GV CD San José vs Bamin Real Potosí h=22.26
+   -0.006 lo=-0.033 betlive  Soccer     1x2       1     @2.7   fair=0.368 spr=0.020 m=0.94 GV Club Deportivo San Jose de Oruro -  | GV CD San José vs Bamin Real Potosí h=22.26
+   -0.007 lo=-0.009 betlive  Basketball ml        1     @1.01  fair=0.983 spr=0.004 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=2.26
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.76
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=23.26
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.76
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=23.26
+   -0.010 lo=-0.019 betlive  Basketball ml        1     @1.01  fair=0.981 spr=0.019 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=5.26
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=21.01
+   -0.012 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.26
+   -0.012 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.26
+
+=== 20261127T205938Z.json  rows=10935 usable=7032 events=683  excluded_anomalies(|pm-book|>0.20)=16 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3513 median edge=-0.107  mean=-0.131  >0:   3  >2%:   2  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2251 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  800 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  358 med=-0.107 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   72 med=-0.090 p90=-0.016 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   20 med=-0.106 p90=-0.056 >2%:  0 >5%:  0  overround=0.120
+   Darts         ml    n=    6 med=-0.107 p90=-0.076 >2%:  0 >5%:  0  overround=0.121
+   Table tennis  ml    n=    2 med=-0.108 p90=-0.106 >2%:  0 >5%:  0  overround=0.122
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+   ES Valorant   ml    n=    2 med=-0.122 p90=-0.078 >2%:  0 >5%:  0  overround=0.125
+crocobet  n= 3519 median edge=-0.107  mean=-0.131  >0:   3  >2%:   2  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2311 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  824 med=-0.120 p90=-0.068 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  370 med=-0.108 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Tennis        ml    n=    6 med=-0.113 p90=-0.021 >2%:  0 >5%:  0  overround=0.115
+   ES Valorant   ml    n=    4 med=-0.122 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   Basketball    ml    n=    2 med=-0.120 p90=-0.097 >2%:  0 >5%:  0  overround=0.121
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.330 lo=+0.288 crocobet Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.51
+   +0.330 lo=+0.288 betlive  Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.51
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.51
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.51
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=19.51
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=19.51
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=3.51
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Villanova Wildcats  W - LSU Tigers W   | Villanova Wildcats vs LSU Tigers (W) h=0.51
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Maine Black Bears W - Kentucky Wildcat | Maine Black Bears vs Kentucky Wildcats h=0.76
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=1.51
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=1.01
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=1.01
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.01
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=3.01
+   -0.007 lo=-0.009 betlive  Basketball ml        1     @1.01  fair=0.983 spr=0.004 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=2.01
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.51
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=23.01
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.51
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=23.01
+   -0.009 lo=-0.017 betlive  Basketball ml        1     @1.01  fair=0.982 spr=0.017 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=5.01
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=20.76
+   -0.012 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.01
+   -0.012 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.006 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=2.01
+   -0.013 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.005 m=1.00 Millonarios - America De Cali          | Millonarios FC vs América de Cali h=4.67
+   -0.013 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.978 spr=0.005 m=1.00 Millonarios - America Cali             | Millonarios FC vs América de Cali h=4.67
+
+=== 20261127T211459Z.json  rows=10944 usable=7363 events=684  excluded_anomalies(|pm-book|>0.20)=12 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3674 median edge=-0.107  mean=-0.131  >0:   4  >2%:   3  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2371 med=-0.099 p90=-0.041 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  803 med=-0.120 p90=-0.068 >2%:  1 >5%:  0  overround=0.130
+   Soccer        btts  n=  400 med=-0.108 p90=-0.074 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   72 med=-0.088 p90=-0.016 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   20 med=-0.106 p90=-0.062 >2%:  0 >5%:  0  overround=0.120
+   Darts         ml    n=    2 med=-0.102 p90=-0.086 >2%:  0 >5%:  0  overround=0.110
+   Table tennis  ml    n=    2 med=-0.108 p90=-0.106 >2%:  0 >5%:  0  overround=0.122
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+   ES Valorant   ml    n=    2 med=-0.122 p90=-0.078 >2%:  0 >5%:  0  overround=0.125
+crocobet  n= 3689 median edge=-0.107  mean=-0.132  >0:   4  >2%:   3  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2436 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  831 med=-0.120 p90=-0.068 >2%:  1 >5%:  0  overround=0.130
+   Soccer        btts  n=  408 med=-0.108 p90=-0.074 >2%:  0 >5%:  0  overround=0.119
+   Tennis        ml    n=    6 med=-0.122 p90=-0.021 >2%:  0 >5%:  0  overround=0.115
+   ES Valorant   ml    n=    4 med=-0.122 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   Basketball    ml    n=    2 med=-0.120 p90=-0.097 >2%:  0 >5%:  0  overround=0.121
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.330 lo=+0.288 crocobet Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.25
+   +0.330 lo=+0.288 betlive  Soccer     tot  4.5  Over  @2.8   fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.25
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.25
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=18.25
+   +0.037 lo=+0.020 crocobet Soccer     1x2       2     @3.45  fair=0.300 spr=0.010 m=0.93 Biesheim - Racing Besancon             | ASC Biesheim vs Racing Besançon h=18.75
+   +0.037 lo=+0.020 betlive  Soccer     1x2       2     @3.45  fair=0.300 spr=0.010 m=1.00 Biesheim Asc - Racing Besancon         | ASC Biesheim vs Racing Besançon h=18.75
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=19.25
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=19.25
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=3.25
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Villanova Wildcats  W - LSU Tigers W   | Villanova Wildcats vs LSU Tigers (W) h=0.25
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Maine Black Bears W - Kentucky Wildcat | Maine Black Bears vs Kentucky Wildcats h=0.5
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=1.25
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=0.75
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=0.75
+   -0.005 lo=-0.050 crocobet Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.75
+   -0.005 lo=-0.050 betlive  Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.75
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.75
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.75
+   -0.006 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.984 spr=0.002 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=1.75
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.25
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=22.75
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=20.25
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=22.75
+   -0.010 lo=-0.019 betlive  Basketball ml        1     @1.01  fair=0.981 spr=0.019 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=4.75
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=20.5
+
+=== 20261127T213018Z.json  rows=10901 usable=7259 events=676  excluded_anomalies(|pm-book|>0.20)=8 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3620 median edge=-0.107  mean=-0.132  >0:   2  >2%:   1  >5%:  1  edge_lo>2%:  1  median overround=0.121
+   Soccer        tot   n= 2336 med=-0.099 p90=-0.042 >2%:  1 >5%:  1  overround=0.120
+   Soccer        1x2   n=  801 med=-0.120 p90=-0.069 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  392 med=-0.108 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   67 med=-0.086 p90=-0.016 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   20 med=-0.106 p90=-0.059 >2%:  0 >5%:  0  overround=0.118
+   Darts         ml    n=    2 med=-0.116 p90=-0.102 >2%:  0 >5%:  0  overround=0.125
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+crocobet  n= 3639 median edge=-0.108  mean=-0.132  >0:   2  >2%:   1  >5%:  1  edge_lo>2%:  1  median overround=0.121
+   Soccer        tot   n= 2400 med=-0.099 p90=-0.042 >2%:  1 >5%:  1  overround=0.120
+   Soccer        1x2   n=  825 med=-0.120 p90=-0.069 >2%:  0 >5%:  0  overround=0.130
+   Soccer        btts  n=  404 med=-0.108 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Tennis        ml    n=    4 med=-0.106 p90=-0.048 >2%:  0 >5%:  0  overround=0.121
+   Darts         ml    n=    2 med=-0.116 p90=-0.102 >2%:  0 >5%:  0  overround=0.125
+   ES Valorant   ml    n=    2 med=-0.138 p90=-0.076 >2%:  0 >5%:  0  overround=0.125
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.99
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.99
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=18.99
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=18.99
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=2.99
+   -0.001 lo=-0.002 betlive  Basketball ml        2     @1.01  fair=0.989 spr=0.002 m=1.00 Maine Black Bears W - Kentucky Wildcat | Maine Black Bears vs Kentucky Wildcats h=0.24
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=0.99
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=0.49
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=0.49
+   -0.005 lo=-0.050 crocobet Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.49
+   -0.005 lo=-0.050 betlive  Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.49
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.49
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.49
+   -0.006 lo=-0.008 betlive  Basketball ml        1     @1.01  fair=0.984 spr=0.004 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=1.49
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=19.99
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=22.49
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=19.99
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=22.49
+   -0.010 lo=-0.019 betlive  Basketball ml        1     @1.01  fair=0.981 spr=0.019 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=4.49
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=20.24
+   -0.011 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.980 spr=0.009 m=1.00 Millonarios - America De Cali          | Millonarios FC vs América de Cali h=4.16
+   -0.011 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.980 spr=0.009 m=1.00 Millonarios - America Cali             | Millonarios FC vs América de Cali h=4.16
+   -0.011 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.979 spr=0.008 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=1.49
+   -0.011 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.979 spr=0.008 m=0.93 Vila Nova - Atletico Goianiense        | Vila Nova FC vs AC Goianiense h=1.49
+   -0.014 lo=-0.016 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.976 spr=0.004 m=0.93 Hamburger - Bayern                     | Hamburger SV vs FC Bayern München h=16.99
+
+=== 20261127T214534Z.json  rows=10905 usable=7049 events=680  excluded_anomalies(|pm-book|>0.20)=12 in 2 events: ['Emmen - Helmond', 'Northwestern - Northeastern ']
+betlive   n= 3522 median edge=-0.107  mean=-0.132  >0:   4  >2%:   3  >5%:  2  edge_lo>2%:  2  median overround=0.121
+   Soccer        tot   n= 2268 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  777 med=-0.120 p90=-0.068 >2%:  1 >5%:  0  overround=0.130
+   Soccer        btts  n=  378 med=-0.107 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   Basketball    ml    n=   69 med=-0.086 p90=-0.020 >2%:  0 >5%:  0  overround=0.115
+   Tennis        ml    n=   20 med=-0.107 p90=-0.066 >2%:  0 >5%:  0  overround=0.118
+   Darts         ml    n=    4 med=-0.114 p90=-0.102 >2%:  0 >5%:  0  overround=0.127
+   Table tennis  ml    n=    2 med=-0.108 p90=-0.106 >2%:  0 >5%:  0  overround=0.122
+   ES Dota       ml    n=    2 med=-0.070 p90=-0.058 >2%:  0 >5%:  0  overround=0.080
+   ES Valorant   ml    n=    2 med=-0.117 p90=-0.092 >2%:  0 >5%:  0  overround=0.125
+crocobet  n= 3527 median edge=-0.108  mean=-0.133  >0:   4  >2%:   3  >5%:  3  edge_lo>2%:  3  median overround=0.121
+   Soccer        tot   n= 2324 med=-0.099 p90=-0.042 >2%:  2 >5%:  2  overround=0.120
+   Soccer        1x2   n=  800 med=-0.120 p90=-0.068 >2%:  1 >5%:  1  overround=0.130
+   Soccer        btts  n=  390 med=-0.107 p90=-0.076 >2%:  0 >5%:  0  overround=0.119
+   ES Valorant   ml    n=    4 med=-0.117 p90=-0.051 >2%:  0 >5%:  0  overround=0.125
+   Basketball    ml    n=    3 med=-0.074 p90=-0.035 >2%:  0 >5%:  0  overround=0.121
+   Darts         ml    n=    2 med=-0.116 p90=-0.102 >2%:  0 >5%:  0  overround=0.125
+   Tennis        ml    n=    2 med=-0.106 p90=-0.094 >2%:  0 >5%:  0  overround=0.115
+   ES Dota       ml    n=    2 med=-0.108 p90=-0.100 >2%:  0 >5%:  0  overround=0.124
+  top edges:
+   +0.306 lo=+0.265 crocobet Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.74
+   +0.306 lo=+0.265 betlive  Soccer     tot  2.5  Under @2.75  fair=0.475 spr=0.030 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.74
+   +0.288 lo=+0.260 crocobet Soccer     tot  4.5  Over  @2.8   fair=0.460 spr=0.020 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.74
+   +0.288 lo=+0.260 betlive  Soccer     tot  4.5  Over  @2.8   fair=0.460 spr=0.020 m=0.93 Emmen - Helmond                        | FC Emmen vs Helmond Sport h=17.74
+   +0.064 lo=+0.021 crocobet Soccer     1x2       2     @2.95  fair=0.361 spr=0.030 m=0.89 Chambly - Avranches                    | FC Chambly Oise vs US Avranches Mont-S h=19.24
+   +0.028 lo=-0.013 betlive  Soccer     1x2       2     @2.85  fair=0.361 spr=0.030 m=0.89 Chambly - Avranches                    | FC Chambly Oise vs US Avranches Mont-S h=19.24
+   +0.003 lo=-0.035 crocobet Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=0.93 Ospitaletto - Union Brescia            | ACD Ospitaletto vs Union Brescia h=18.74
+   +0.003 lo=-0.035 betlive  Soccer     1x2       1     @3.75  fair=0.267 spr=0.020 m=1.00 Acd Ospitaletto - Union Brescia        | ACD Ospitaletto vs Union Brescia h=18.74
+   -0.001 lo=-0.002 betlive  Basketball ml        1     @1.01  fair=0.990 spr=0.003 m=0.90 Houston Cougars - Oakland              | Oakland Golden Grizzlies vs Houston Co h=2.74
+   -0.004 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.987 spr=0.007 m=1.00 Baylor Bears W - Penn State Nittany Li | Penn State Nittany Lions vs Baylor Bea h=0.74
+   -0.005 lo=-0.010 crocobet Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad Bolivar      | CA Atlanta vs Club Ciudad de Bolivar h=0.24
+   -0.005 lo=-0.010 betlive  Soccer     tot  5.5  Under @1.01  fair=0.986 spr=0.011 m=0.93 Atletico Atlanta - Ciudad De Bolivar   | CA Atlanta vs Club Ciudad de Bolivar h=0.24
+   -0.005 lo=-0.050 crocobet Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.24
+   -0.005 lo=-0.050 betlive  Soccer     1x2       2     @4.5   fair=0.221 spr=0.020 m=0.95 Forest Green - Tamworth                | Forest Green Rovers FC vs Tamworth FC h=17.24
+   -0.005 lo=-0.009 crocobet Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.24
+   -0.005 lo=-0.009 betlive  Soccer     tot  5.5  Under @1.01  fair=0.985 spr=0.008 m=0.95 Tristan Suarez - Gimnasia Y Tiro       | CSD Tristan Suarez vs Gimnasia Y Tiro  h=2.24
+   -0.006 lo=-0.007 betlive  Basketball ml        1     @1.01  fair=0.985 spr=0.003 m=0.95 Illinois Fighting Illini - Western Ken | Western Kentucky Hilltoppers vs Illino h=1.24
+   -0.008 lo=-0.014 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=19.74
+   -0.008 lo=-0.010 crocobet Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real - Alaves                          | Real Madrid CF vs Deportivo Alavés h=22.24
+   -0.008 lo=-0.014 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.013 m=0.93 Stuttgart - Eintracht                  | VfB Stuttgart vs Eintracht Frankfurt h=19.74
+   -0.008 lo=-0.010 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.983 spr=0.005 m=0.93 Real Madrid - Alaves                   | Real Madrid CF vs Deportivo Alavés h=22.24
+   -0.010 lo=-0.019 betlive  Basketball ml        1     @1.01  fair=0.981 spr=0.019 m=1.00 Minnesota Golden Gophers W - Cincinnat | Cincinnati Bearcats vs Minnesota Golde h=4.24
+   -0.010 lo=-0.020 betlive  Soccer     tot  0.5  Over  @1.01  fair=0.980 spr=0.020 m=0.90 PSV Eindhoven - Eagles                 | PSV vs Go Ahead Eagles h=19.99
+   -0.011 lo=-0.015 crocobet Soccer     tot  5.5  Under @1.01  fair=0.980 spr=0.009 m=1.00 Millonarios - America De Cali          | Millonarios FC vs América de Cali h=3.91
+   -0.011 lo=-0.015 betlive  Soccer     tot  5.5  Under @1.01  fair=0.980 spr=0.009 m=1.00 Millonarios - America Cali             | Millonarios FC vs América de Cali h=3.91
