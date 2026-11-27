@@ -1,0 +1,12 @@
+A Spain MB base: 75% offers usable, 10 offers max in 30d: mean 985 | P(>=300) 1.00 | P(loss>300) 0.000 | p5 737
+A Spain MB pessimistic: 50% usable, 6 offers, 10% confiscation, 5% errors: mean 575 | P(>=300) 0.97 | P(loss>300) 0.000 | p5 330
+A Spain MB optimistic: 90% usable, 14 offers: mean 1281 | P(>=300) 1.00 | P(loss>300) 0.000 | p5 1032
+B value bet edge 3% odds 2.5 bets 300 kelly x0.25: mean 18 | P(>=300) 0.000 | P(loss>300) 0.000
+B value bet edge 3% odds 2.5 bets 300 kelly x1.0: mean 79 | P(>=300) 0.122 | P(loss>300) 0.000
+B value bet edge 5% odds 2.5 bets 300 kelly x0.25: mean 53 | P(>=300) 0.006 | P(loss>300) 0.000
+B value bet edge 5% odds 2.5 bets 300 kelly x1.0: mean 260 | P(>=300) 0.343 | P(loss>300) 0.011
+B value bet edge 3% odds 2.5 bets 1000 kelly x0.25: mean 65 | P(>=300) 0.014 | P(loss>300) 0.000
+B value bet edge 3% odds 2.5 bets 1000 kelly x1.0: mean 324 | P(>=300) 0.360 | P(loss>300) 0.016
+A Spain MB capped150 base: mean 796 | P(>=300) 1.00 | P(loss>300) 0.000 | p5 614
+A Spain MB capped150 pessimistic: mean 457 | P(>=300) 0.93 | P(loss>300) 0.000 | p5 277
+A Spain MB capped150 very pessimistic: 40% usable, 5 offers, 15% confisc: mean 345 | P(>=300) 0.68 | P(loss>300) 0.000 | p5 165
