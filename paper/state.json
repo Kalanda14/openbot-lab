@@ -17,10 +17,27 @@
   "pos": 0,
   "e": 0.0,
   "pnl": 0.0,
-  "done": false,
+  "done": true,
   "trades": [],
   "u": 0.0,
   "blev": 0.0,
   "last_k": 30
+ },
+ "RAW": {
+  "B": [
+   0.0
+  ]
+ },
+ "D8": {
+  "state": "running",
+  "date": "2026-11-27",
+  "W": 400.0,
+  "log": []
+ },
+ "on_prev": 26789.5,
+ "GOLD": {
+  "entry": 334.739990234375,
+  "date": "2026-11-27",
+  "lev": null
  }
 }
