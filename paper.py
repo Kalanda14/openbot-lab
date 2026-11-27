@@ -152,7 +152,8 @@ def daily():
 
 
 def board():
-    if not os.path.exists(f"{P}/ledger.csv"): return
+    if not os.path.exists(f"{P}/ledger.csv"):
+        open(f"{P}/README.md", "w").write("# Paper bot scoreboard (fake money)\n\nno ledger rows yet\n" + "\n".join(CH.board_lines(st)) + "\n"); return
     L = pd.read_csv(f"{P}/ledger.csv", parse_dates=["date"])
     by = L.pivot_table(index="date", columns="sleeve", values="ret", aggfunc="sum").fillna(0)
     book = by.sum(axis=1); eq = (1 + book).cumprod()
