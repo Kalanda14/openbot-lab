@@ -12,6 +12,7 @@ import json, os, sys, time, datetime as dt
 from zoneinfo import ZoneInfo
 import numpy as np, pandas as pd, requests
 import challenge as CH
+import day800 as D8
 
 NY = ZoneInfo("America/New_York"); P = "paper"; os.makedirs(P, exist_ok=True)
 W = dict(B=0.626, ON=0.388, TREND=0.036, CARRY=3.0, GOLD=0.2); CASH = 0.038
@@ -57,6 +58,7 @@ def intraday():
             r = px / on["entry"] - 1 - 2.5 / on["entry"]  # ~2.5 NQ pt CFD round trip
             ledger(now.date(), "ON", r * W["ON"], f"raw {r:+.4%} exit {px}"); CH.raw(st, "ON", r)
             if on.get("lev") is not None: CH.apply(st, "ON", r, 0.0, f"night {on['date']}", lev=on["lev"])
+            D8.apply(st, "ON", r, on.get("d8lev"), f"night {on['date']}")
         if "GOLD" in st and st["GOLD"].get("entry"):  # gold night: GLD 15:55 -> today's 09:30 open
             gd = st.pop("GOLD")
             try:
@@ -72,6 +74,7 @@ def intraday():
     def bmark(c, frac):  # challenge: book B's unit P&L since the last check at the leverage that was in force
         u = (s["pnl"] + (s["pos"] * (c - s["e"]) if s["pos"] else 0)) / s["open"]
         if s.get("blev") and abs(u - s.get("u", 0)) > 0: CH.apply(st, "B", u - s.get("u", 0), frac, f"B {now:%H:%M}", jobs=jobs, lev=s["blev"])
+        if s.get("d8lev") and abs(u - s.get("u", 0)) > 0: D8.apply(st, "B", u - s.get("u", 0), s["d8lev"], f"B {now:%H:%M}", jobs=jobs)
         s["u"] = u
     if mins >= 385:  # 15:55 -> flat B, open overnight
         c = float(today.c.iloc[-1])
@@ -79,10 +82,11 @@ def intraday():
         bmark(c, 1.0)
         r = s["pnl"] / s["open"] * (2 if jobs else 1)
         ledger(now.date(), "B", r * W["B"], f"raw {r:+.4%} trades {len(s['trades'])}"); s["done"] = True; CH.raw(st, "B", s["pnl"] / s["open"])
+        D8.start(st, now.date())
         prev = st.get("on_prev"); st["on_prev"] = c
         live = st.get("CH", {}).get("state") == "running"
         if prev and c < prev:  # overnight only after a down day (15:55 < previous 15:55)
-            st["ON"] = dict(entry=c, date=str(now.date()), lev=CH.lev_for(st, "ON", 1.0) if live else None)
+            st["ON"] = dict(entry=c, date=str(now.date()), lev=CH.lev_for(st, "ON", 1.0) if live else None, d8lev=D8.size(st, "ON", 1.0))
         try:
             gl = nq5("GLD", "5m", "1d"); st["GOLD"] = dict(entry=float(gl.c.iloc[-1]), date=str(now.date()), lev=CH.lev_for(st, "GOLD", 1.0) if live else None)
         except Exception as ex: print("gold entry failed", ex)
@@ -106,6 +110,7 @@ def intraday():
         if c > ub: s["pos"], s["e"] = 1, c; s["trades"].append([f"{9 + (30 + k) // 60}:{(30 + k) % 60:02d}", "long", c])
         elif c < lb: s["pos"], s["e"] = -1, c; s["trades"].append([f"{9 + (30 + k) // 60}:{(30 + k) % 60:02d}", "short", c])
     s["blev"] = CH.lev_for(st, "B", k / 390) if (s["pos"] and st.get("CH", {}).get("state") == "running") else 0.0
+    s["d8lev"] = D8.size(st, "B", 0.6 * (390 - k) / 390, jobs) if s["pos"] else 0.0
 
 
 def kl(sym, n=120):
@@ -153,7 +158,7 @@ def daily():
 
 def board():
     if not os.path.exists(f"{P}/ledger.csv"):
-        open(f"{P}/README.md", "w").write("# Paper bot scoreboard (fake money)\n\nno ledger rows yet\n" + "\n".join(CH.board_lines(st)) + "\n"); return
+        open(f"{P}/README.md", "w").write("# Paper bot scoreboard (fake money)\n\nno ledger rows yet\n" + "\n".join(CH.board_lines(st) + D8.board_lines(st)) + "\n"); return
     L = pd.read_csv(f"{P}/ledger.csv", parse_dates=["date"])
     by = L.pivot_table(index="date", columns="sleeve", values="ret", aggfunc="sum").fillna(0)
     book = by.sum(axis=1); eq = (1 + book).cumprod()
@@ -162,7 +167,7 @@ def board():
              f"days: {len(book)} | book return: {eq.iloc[-1] - 1:+.2%} | Sharpe so far: {sh:+.2f} (needs months to mean anything)\n",
              "| sleeve | total return contribution | days |", "|---|---|---|"]
     for c in by: lines.append(f"| {c} | {by[c].sum():+.3%} | {(by[c] != 0).sum()} |")
-    lines += CH.board_lines(st)
+    lines += CH.board_lines(st) + D8.board_lines(st)
     lines.append("\nlast 10 ledger rows:\n\n```\n" + L.tail(10).to_string(index=False) + "\n```")
     open(f"{P}/README.md", "w").write("\n".join(lines) + "\n")
 
