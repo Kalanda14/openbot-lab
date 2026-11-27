@@ -22,4 +22,4 @@ jobs:
       - run: |
           git config user.name "paper-bot"; git config user.email "124206442+Kalanda14@users.noreply.github.com"
           git add paper/ && git commit -m "paper: $(date -u +%F_%H%M)" || exit 0
-          git pull --rebase && git push
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep $((RANDOM % 10 + 5)); done; exit 1
