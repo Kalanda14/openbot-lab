@@ -138,3 +138,10 @@ total fill P&L -$395/day (was -$312), median -$3.42/market, 20 markets lose > $5
 markets: -$1.55 and -$0.44/day (pool ~$100/day each) -> still the only clear candidates. sim.py uses real books + real
 trades (no prices-history), so it is not affected. Other old lessons kept: closed/hidden outcomes fake "free money"
 (edgetest), market is well calibrated (weatheredge), so the reward is the ONLY edge here, never price prediction.
+
+## Crowding check 2026-11-27 (lead)
+peers.py: the "empty" Selic markets have 119-136 maker wallets in their last 1000 fills; top wallets earn $1k-5k/day
+in rewards across many markets. Reward config start_date = 2026-11-27: the "empty" books were just-started programs.
+Live book a few hours later: Jan bid 0.41 x193 / ask 0.55 x20, mid 0.48; trades swing 0.31-0.69 YES-equivalent within
+an hour. So: (1) the empty-market window may last hours, not days; (2) these are fast-moving markets (adverse fills).
+Watch in sim.py output whether our share falls day by day.
