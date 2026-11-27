@@ -1,0 +1,74 @@
+# Registration Missions https://crocobet.com/landings/crc/registrationmissions
+rulesKey=['registrationbonus2025']
+endpoints=['campaign1:"reg-missions-first-mission-1126",campaign2:"reg-missions-second-mission-11262",campaign3:"reg-missions-third-mission-1126",campaign4:"reg-missions-cashout-1126",campaign5:"reg-missions-fourth-mission-1126",currentDateEndpoint:"metropol-final-leaderboard-230625"']
+
+## ABOUT THE PROMOTION
+Registration Missions  - an offer where you register at Crocobet, complete missions, and receive a maximum of 1 500 free spins; 
+   
+  Participating slots:   all slots, except Joker Poker, Keno Universe, 4 of a Kind Poker, Jacks or Better Video Poker, EGT Roulette DP, Virtual Roulette, and EGT Roulette; 
+  Participating fast games:  all games from SmartSoft, Aviator Studio, Next Level, BGaming, and isoftBet; * With a minimum cashout coefficient of 1.5: UFO, UFOX, JetX, Aviator, Chicken Highway, Balloon, FootballX, HelicopterX, Mine Gems, Balloon Mania, Open It, Gold Digger Mines, Aztec Gold Mines,  Cheesy Road ; * With a minimum cashout coefficient of 1.4: Suit Runner
+## DATES OF THE PROMOTION
+Start:  November 2, 12:00
+## REGISTRATION MISSIONS
+There are 4 missions for you to complete, and you have 7 days to do so after registering at Crocobet.com; 
+   
+   MISSION #1   
+  Complete registration  
+ If you successfully complete the mission, you will receive  100 free spins ; 
+  * From 00:00 on November 16 to 11:59 on December 1, your prize doubles, and you will receive 200 free spins!  
+   
+   MISSION #2   
+  Place a min. deposit of 50₾ and fully wager it on slots or fast games  
+ To succeed in this mission, make a 50₾ deposit during the daily count (12:00–11:59) and wager the full amount on slots and fast games - you have 7 days after registering to complete this mission; 
+ If you successfully complete the mission, you will receive  100 free spins ; 
+  * From 00:00 on November 16 to 11:59 on December 1, your prize doubles, and you will receive 200 free spins!  
+   
+   MISSION #3   
+  Place a bet of 5 000₾  
+ To succeed in this mission, you must place a total bet of at least 5 000₾ on slots and fast games within 7 days of registering; 
+ If you successfully complete the mission, you will receive  500 free spins ; 
+  * From 00:00 on November 16 to 11:59 on December 1, your prize doubles, and you will receive 1 000 free spins!  
+   
+   MISSION #4   
+  Place a bet of 10 000₾  
+ To succeed in this mission, you must place a total bet of at least 10 000₾ on slots and fast games within 7 days of registering! 
+ If  you successfully complete the mission, you will receive  700 free spins ; 
+  * From 00:00 on November 16 to 11:59 on December 1, your prize doubles, and you will receive 1 400 free spins!  
+   
+   
+ * Free spins will be added to your free spins balance instantly after you complete each mission; * Users who register after 12:00 on November 2 will be eligible to participate in the promotion; * Only Georgian citizens, as well as foreign citizens and stateless persons holding an identity card or residence permit issued by the relevant Georgian authorities, are eligible to participate in the promotion;
+## ABOUT THE PRIZES
+You can withdraw free spins in slots and in the casino; 
+   
+  Slots:  
+  EGT Interactive  - 0.15₾ (5 Dazzling Hot), 0.5₾ (10 Burning Heart), 1₾ (20 Super Hot), 2₾ (100 Super Hot), 5₾ (Ultimate Hot); 
+  3 OAKS Gaming  - 0.25₾ (Sun of Egypt), 0.5₾ (Wolf Saga), 1₾ (Magic Apple), 2₾ (3 Coins);  
+  Pragmatic  -   0.2₾ (Sweet Bonanza), 0.4₾ (Sweet Bonanza), 0.8₾ (Gates of Olympus), 1.8₾ (Gates of Olympus), 6₾ (Gates Of Olympus); 
+  EGT Digital  - 0.15₾ (5 Dazzling Hot Clover Chance), 0.50₾ (50 Hot Blast Clover Chance), 1₾ (100 Super Hot Clover Chance); 
+  Netent&Redtiger  - 0.20₾ (Netent Starburst), 0.40₾ (Gonzo's Quest Megaways, Red Tiger), 1₾ (Netent - Jungle Spirit: Call of the Wild), 2₾ (Redtiger - 4 squad); 
+   
+ In the case of the  Casino , free chips will be added to your Evolution Gaming free chip balance; 
+   
+ * Free spins can be used within 72 hours of being credited.
+## ACCUMULATING FREE SPINS IN THE BIGGY BANK
+Every 10 free spins earned during the promotion = 1 free spin in the Biggy Bank; 
+   
+ 10% of the free spins you earn during the promotion will be accumulated in the Biggy Bank, up to a maximum of 100 free spins; 
+   
+  To open the Biggy Bank, you need to:  
+ - Accumulate at least 10 free spins in the Biggy Bank; - Invite 1 friend to Crocobet.com using your unique promo code; 
+   
+ Please note that to use the Biggy Bank, you must invite a friend who registered on Crocobet.com after 00:00 of the previous day; 
+   
+ When you open the Biggy Bank, you will receive the accumulated free spins. Your invited friend will receive the same number of free spins; 
+ Once you have opened the piggy bank, you can start accumulating free spins again;
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users, who are in full compliance with the website rules; 
+   
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning; 
+   
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation; 
+   
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players; 
+   
+ Foreign citizens and stateless persons who hold an identity card or residence permit issued by the relevant authorities of Georgia are also eligible to participate in the promotion.

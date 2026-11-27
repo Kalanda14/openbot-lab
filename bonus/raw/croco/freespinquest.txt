@@ -1,0 +1,62 @@
+# Freespin Quest https://crocobet.com/landings/crc/freespinquest
+rulesKey=['freespinsquest']
+endpoints=['campaign1:"squid-game~cashout",campaign2:"",campaign3:"",currentDateEndpoint:"tesla-final-leaderboard-080425",userActiveStatus:"squid-game~game",userHistory:"aggregator/squid-game~aggregator",count:"6962",checkTime:"checktime",userCashout:"squid-game~cashout",enterMissionEndpoint:"squid-game~enter"']
+
+## ABOUT THE PROMOTION
+Free Spin Quest  - an offer where you complete daily missions by wagering your deposit in slots and win a share of 1,000,000 free spins; 
+   
+ The deposit must be wagered in slots, excluding the following games: Joker Poker, Keno Universe, 4 of a Kind Poker, Jacks or Better Video Poker, EGT Roulette DP, Virtual Roulette, EGT Roulette;
+## DATES OF THE PROMOTION
+Start:  November 23, 00:00. 
+  End:  November 29, 23:59.
+## ABOUT THE MISSIONS
+You have a daily mission – make your first 100₾ deposit of the day and fully wager it in the slots. 
+ All seven daily missions are identical, and the current day’s mission must be completed from 00:00 to 23:59. 
+ Keep in mind that you will only join the promotion if you complete the current day’s mission on the day the promotion starts (make your first 100₾ deposit of the day and fully wager it in the slots). 
+   
+  First mission:  completing the first mission means joining the promotion, and it can be completed by all users; 
+  Second mission:  the second mission is active for all users who have completed the first mission; 
+  Third mission:  the third mission is active for all users who have completed the second mission; 
+  Fourth mission:  the fourth mission is active for all users who have completed the third mission; 
+  Fifth mission:  the fifth mission is active for all users who have completed the fourth mission; 
+  Sixth mission:  the sixth mission is active for all users who have completed the fifth mission; 
+  Seventh mission:  the seventh mission is active for all users who have completed the sixth mission. 
+   
+ All users who complete all seven daily missions will be the winners of the promotion. 
+   
+  The prize pool  
+   
+ The prize pool of the promotion is 1,000,000 free spins, which will be equally divided among users who complete all seven daily missions. 
+ For example: if on the seventh day of the promotion 2 users have completed all seven daily missions, the prize pool will be divided in half, and each of them will receive 500,000 free spins. 
+   
+ *Keep in mind that if you fail to complete any day’s mission, you will drop out of the promotion and cannot rejoin; 
+ *On the first day, the number of users participating in the promotion is unlimited;
+## THE PRINCIPLE OF ACCUMULATING FREE SPINS IN THE PIGGY BANK
+Every 10 free spins earned during the promotion = 1 free spin in the Biggy Bank;  
+   
+ 10% of the free spins you earn during the promotion will be accumulated in the Biggy Bank, up to a maximum of 100 free spins; 
+   
+  To open the Biggy Bank, you need to:  - Accumulate at least 10 free spins in the Biggy Bank; - Invite 1 friend to Crocobet.com using your unique promo code; 
+   
+  Please note  that to use the Biggy Bank, you must invite a friend who registered on Crocobet.com after 00:00 of the previous day; 
+   
+ When you open the Biggy Bank, you will receive the accumulated free spins. Your invited friend will receive the same number of free spins;
+## ABOUT THE PRIZES
+You can claim free spins in different slots with your desired value: 
+   
+   EGT  Interactive free spins:  0.15₾ (5 Dazzling Hot), 0.5₾ (10 Burning Heart), 1₾ (20 Super Hot), 2₾ (100 Super Hot), 5₾ (Ultimate Hot); 
+  Pragmatic free spins:  0.2₾ (Sweet Bonanza), 0.4₾ (Sweet Bonanza), 0.8₾ (Gates of Olympus), 1.8₾ (Gates of Olympus), 6₾ (Gate Of Olympus); 
+  Netent&Redtiger free spins:  0.20₾ (Netent Starburst), 0.40₾ (Gonzo's Quest Megaways, Red Tiger), 1₾ (Netent - Jungle Spirit: Call of the wild), 2₾ (Redtiger - 4 squad); 
+  EGT Digital free spins:  0.15₾ (5 Dazzling Hot Clover Chance), 0.50₾ (50 Hot Blast Clover Chance), 1₾ (100 Super Hot Clover Chance); 
+  OAKS Gaming free spins:  0.25₾ (Sun of Egypt), 1₾ (Magic Apple), 2₾ (3 Coins); 
+  PATEPLAY free spins:  0.2₾ (Red Fate 5), 0.5₾ (Regal Spin 10), 1₾ (Red Fate 20), 2₾ (Sevens Heat 100); 
+   
+ Free spins will be credited to your balance until 01:00 on November 30, and you will be able to claim them until 12:00 of November 30.
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users, who are in full compliance with the website rules. 
+   
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning. 
+   
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation. 
+   
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players.

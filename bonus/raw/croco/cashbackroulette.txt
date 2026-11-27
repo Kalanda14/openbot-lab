@@ -1,0 +1,41 @@
+# Cashback Roulette https://crocobet.com/landings/crc/cashbackroulette
+rulesKey=['cashbackroulette2025']
+endpoints=['campaign1:"casino-cashback-roulette~percent",campaign2:"casino-cashback-roulette~shop",campaign3:"",currentDateEndpoint:"checktime"']
+
+## ABOUT THE PROMOTION
+Cashback Roulette - an offer where, without any preconditions, you spin the roulette and receive guaranteed cashback in free chips when playing casino;
+## DATES OF THE PROMOTION
+Start:  November 20, 00:00. 
+  End:  November 27, 23:59.
+## ABOUT THE CASHBACK ROULETTE
+You can spin the Cashback Roulette every day without any precondition. The number on which the roulette lands determines your current cashback percentage, and to enjoy the cashback, you have to play any Imagine Live Roullete, Evolution Gaming, Pragmatic LIVE Casino, or EGT Interactive roulette, as well as Crocobet LIVE Roulette and Crocobet LIVE Auto Roulette; 
+   
+   
+ If the number that lands on the roulette is  1, 2, 3, 4, or 5 , you will receive  5%  cashback; 
+ If the number that lands on the roulette is  6, 7, 8, 9, or 10 ,   you will receive  10%  cashback; 
+ If the number that lands on the roulette is  11, 12, 13, 14, or 15 , you will receive  15%  cashback; 
+ If the number that lands on the roulette is  16, 17, 18, 19, or 20 , you will receive  20%  cashback; 
+ If the number that lands on the roulette is  21, 22, 23, 24, or 25 , you will receive  25%  cashback; 
+ If the number that lands on the roulette is  26, 27, 28, 29, or 30 , you will receive  30%  cashback; 
+ If the number that lands on the roulette is  31, 32, 33, 34, or 35 , you will receive  35%  cashback; 
+ If the number that lands on the roulette is  36 , you will receive  40%  cashback; 
+ If the number that lands on the roulette is  0 , you will receive  90%  cashback; 
+   
+ For example, if Cashback Roulette lands on 23, you will qualify for 25% cashback until the end of the daily count. In this case, if the difference between your total bets and total winnings on any Imagine Live Roullete, Evolution Gaming, Pragmatic LIVE Casino, or EGT Interactive roulette, as well as Crocobet LIVE Roulette and Crocobet LIVE Auto Roulette, reaches 500₾, you will receive 125₾ in free chips as a reward (500*25/100); 
+   
+ You can receive a min. of 10₾ and a max. of 200₾ in free chips as cashback during the daily count; 
+   
+   
+ * You can only spin the roulette once during the daily count (00:00-23:59);
+## ABOUT THE PRIZES
+The cashback will be added to your free chip balance after the percentage is determined, instantly at the end of the daily count,   and you can then withdraw it in Evolution Gaming until 12:00 on November 28  ;  
+   
+   
+  Prize Sequence  
+ This document outlines the sequence of prizes available as part of the promotion: 
+    The order of numbers on the roulette
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users, who are in full compliance with the website rules. 
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning. 
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation. 
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players.

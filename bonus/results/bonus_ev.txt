@@ -1,0 +1,17 @@
+{'rtp': 0.99, 'doubled': True, 'mean_GEL': 251.9, 'mean_EUR': 88.6, 'p10_EUR': -34.5, 'p90_EUR': 158.5, 'P(loss)': 0.127, 'P(bust before 10k)': 0.127}
+{'rtp': 0.99, 'doubled': False, 'mean_GEL': 72.2, 'mean_EUR': 25.4, 'p10_EUR': -68.8, 'p90_EUR': 88.5, 'P(loss)': 0.278, 'P(bust before 10k)': 0.128}
+{'rtp': 0.985, 'doubled': True, 'mean_GEL': 190.5, 'mean_EUR': 67.0, 'p10_EUR': -39.5, 'p90_EUR': 140.0, 'P(loss)': 0.208, 'P(bust before 10k)': 0.208}
+{'rtp': 0.985, 'doubled': False, 'mean_GEL': 19.2, 'mean_EUR': 6.8, 'p10_EUR': -72.2, 'p90_EUR': 72.1, 'P(loss)': 0.397, 'P(bust before 10k)': 0.217}
+{'rtp': 0.97, 'doubled': True, 'mean_GEL': 9.5, 'mean_EUR': 3.3, 'p10_EUR': -50.2, 'p90_EUR': 91.3, 'P(loss)': 0.59, 'P(bust before 10k)': 0.59}
+{'rtp': 0.97, 'doubled': False, 'mean_GEL': -119.9, 'mean_EUR': -42.2, 'p10_EUR': -80.6, 'p90_EUR': 23.1, 'P(loss)': 0.789, 'P(bust before 10k)': 0.59}
+Crocobet M1+M2 only (GEL net): 50.8 EUR 17.9
+Betlive 500 FS welcome (no deposit) net GEL 68.4 EUR 24.1
+Cashback Roulette daily EV, max bet 100 GEL: 8.23 GEL/day = 2.89 EUR/day (before 5% tax)
+Cashback Roulette daily EV, max bet 200 GEL: 16.47 GEL/day = 5.79 EUR/day (before 5% tax)
+Cashback Roulette daily EV, max bet 400 GEL: 30.95 GEL/day = 10.89 EUR/day (before 5% tax)
+300 {'rtp': 0.99, 'doubled': True, 'mean_GEL': 250.8, 'mean_EUR': 88.2, 'p10_EUR': -34.7, 'p90_EUR': 158.3, 'P(loss)': 0.13, 'P(bust before 10k)': 0.13}
+300 {'rtp': 0.985, 'doubled': True, 'mean_GEL': 189.1, 'mean_EUR': 66.5, 'p10_EUR': -39.6, 'p90_EUR': 138.6, 'P(loss)': 0.21, 'P(bust before 10k)': 0.21}
+600 {'rtp': 0.99, 'doubled': True, 'mean_GEL': 256.5, 'mean_EUR': 90.2, 'p10_EUR': 28.4, 'p90_EUR': 153.3, 'P(loss)': 0.03, 'P(bust before 10k)': 0.0}
+600 {'rtp': 0.985, 'doubled': True, 'mean_GEL': 210.3, 'mean_EUR': 74.0, 'p10_EUR': 11.0, 'p90_EUR': 136.6, 'P(loss)': 0.067, 'P(bust before 10k)': 0.001}
+1000 {'rtp': 0.99, 'doubled': True, 'mean_GEL': 237.0, 'mean_EUR': 83.4, 'p10_EUR': 22.5, 'p90_EUR': 144.3, 'P(loss)': 0.039, 'P(bust before 10k)': 0.0}
+1000 {'rtp': 0.985, 'doubled': True, 'mean_GEL': 189.5, 'mean_EUR': 66.7, 'p10_EUR': 5.8, 'p90_EUR': 127.6, 'P(loss)': 0.083, 'P(bust before 10k)': 0.0}

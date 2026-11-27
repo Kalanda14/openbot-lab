@@ -1,0 +1,35 @@
+# Fast Games Vip Wheel https://crocobet.com/landings/crc/fastvipwheel
+rulesKey=['fastgamesvipwheelmarch']
+endpoints=['campaign1:"fast-vip-wheel~main",campaign2:"",campaign3:"",currentDateEndpoint:"tesla-final-leaderboard-080425"']
+
+## WHAT IS THE FAST GAMES VIP WHEEL?
+Fast Games VIP Wheel  – a promotion where you complete the progress by placing bets in Fast Games, spin the wheel, and win free spins. 
+   
+  Participating games:  All Fast Games from SmartSoft, Aviator Studio, Next Level, Bgaming, Ifotbet, OptimoPlay, and Elephant Gaming; 
+   
+ * In the following games, the minimum cashout coefficient must be 1.5: UFO, UFOX, JetX, Aviator, King's Move,  Chicken Highway, Cheesy Road, Balloon, FootballX, HelicopterX, Mine Gems, Balloon Mania, Open It, Gold Digger Mines, Aztec Gold Mines, Infinity Race, Board; * In Suit Runner, the minimum cashout coefficient must be 1.4;
+## DATES OF THE PROMOTION
+Start:  November 24, 10:00 
+  End:  December 14, 09:59
+## WHEEL SPIN MECHANICS 
+You have a betting progress with the following levels: 5 000₾ > 10 000₾ > 20 000₾; 
+   
+ You can complete the progress with total bets placed on Fast Games during the daily count, and by completing each level, you will receive 1 spin on the wheel; 
+   
+  The following prizes are placed on the wheel:  50 free spins, 100 free spins, 200 free spins, 300 free spins, 500 free spins, 1 000 free spins, 2 000 free spins, 3 000 free spins, 5 000 free spins, and 10 000 free spins; 
+   
+ * The period of the day is from 10:00 to 09:59. 
+ * You will be able to spin the wheel a maximum of 3 times during the daily count; 
+ * Unused spins will be nullified at the end of the daily count; 
+ * Free spins will be added to your free spins balance instantly;
+## ABOUT THE PRIZES
+Free spins will be instantly credited to your free spins balance, and you can claim them until December 14, 16:00, on the following products: 
+  For JetX, UFOX, Aviator and King's Move, you can use free spins with the following values: 0.20₾, 0.5₾, 1₾, 2₾, 5₾, 10₾. 
+ For Suit Runner, Plinko Max and UFO, free spins will be credited to the balance of the selected product. 
+   
+ The following document shows the order of the prizes that can be received as part of the promotion:    Sequence of prizes
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users who are in full compliance with the website rules. 
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address will be disqualified from the promotion without warning. 
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation. 
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players;

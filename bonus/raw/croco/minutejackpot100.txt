@@ -1,0 +1,38 @@
+# Minute Jackpot https://crocobet.com/landings/crc/minutejackpot100
+rulesKey=['winningminutes']
+endpoints=['campaign1:"prediction-campaigns",campaign3:"game-server/cashout",campaign4:"minute-jackpot-block-list",currentDateEndpoint:"checktime"']
+
+## ABOUT THE PROMOTION
+Winning Minute  - an offer where you choose a winning time, and if a goal is scored during your selected time, you win free spins;
+## DATES OF THE PROMOTION
+Start:  November 28, 00:00 
+  End:  November 28, 19:00
+## HOW TO CHOOSE A MINUTE AND PRIZES
+You have a 5-level deposit progress with the following amounts: ₾10, ₾20, ₾50, ₾100, and ₾200. 
+   
+ After completing each level, you will get 1 time interval pick. For example, if your deposit amount is ₾20, you can choose 2 time intervals according to the following principle: 
+   
+ From 1 minute to 5 minutes From 6 minutes to 10 minutes From 11 minutes to 15 minutes From 16 minutes to 20 minutes From 21 minutes to 25 minutes From 26 minutes to 30 minutes From 31 minutes to 35 minutes From 36 minutes to 40 minutes From 41 minutes to 45 minutes From 46 minutes to 50 minutes From 51 minutes to 55 minutes From 56 minutes to 60 minutes From 61 minutes to 65 minutes From 66 minutes to 70 minutes From 71 minutes to 75 minutes From 76 minutes to 80 minutes From 81 minutes to 85 minutes From 86 minutes to 90 minutes 46+ (first-half stoppage time) 91+ (second-half stoppage time) 
+   
+ If the time intervals you selected are from 6 to 10 minutes and from 66 to 70 minutes, and a goal is scored during exactly these time interval(s) while the match is in progress, you will be rewarded with free spins. 
+ Each winning interval in the promotion has a prize pool of 100,000 free spins, which will be divided among the users who correctly predict the interval in which the goal will be scored. 
+ For example, if 100 users correctly predict the time when the goal will be scored, the prize pool will be divided by 100, and each winner will receive 1,000 free spins.
+## ABOUT THE PRIZES
+You can use your free spins in the following slots, with your desired value: 
+   
+  EGT Interactive free spins:  0.15₾ (5 Dazzling Hot), 0.5₾ (10 Burning Heart), 1₾ (20 Super Hot), 2₾ (100 Super Hot), 5₾ (Ultimate Hot); 
+  Pragmatic free spins:  0.2₾ (Sweet Bonanza), 0.4₾ (Sweet Bonanza), 0.8₾ (Gates of Olympus), 1.8₾ (Gates of Olympus), 6₾ (Gate Of Olympus); 
+  Netent&Redtiger free spins:  0.20₾ (Netent Starburst), 0.40₾ (Gonzo's Quest Megaways, Red Tiger), 1₾ (Netent - Jungle Spirit: Call of the wild), 2₾ (Redtiger - 4 squad); 
+  EGT Digital free spins:  0.15₾ (5 Dazzling Hot Clover Chance), 0.50₾ (50 Hot Blast Clover Chance), 1₾ (100 Super Hot Clover Chance); 
+  OAKS Gaming free spins:  0.25₾ (Sun of Egypt), 1₾ (Magic Apple), 2₾ (3 Coins); 
+  PATEPLAY free spins:  0.2₾ (Red Fate 5), 0.5₾ (Regal Spin 10), 1₾ (Red Fate 20), 2₾ (Sevens Heat 100); 
+   
+ Your free spins will be credited to the corresponding balance until 12:00 on November 29, and you can withdraw them until 16:00 on November 29;
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users, who are in full compliance with the website rules. 
+   
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning. 
+   
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation. 
+   
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players.

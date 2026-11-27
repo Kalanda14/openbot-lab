@@ -1,0 +1,28 @@
+# Spin Games Wheel https://crocobet.com/landings/crc/spin-games-wheel
+rulesKey=['spingameswheel']
+endpoints=['campaign1:"",spinGamesCampaign:"p2p-spin-wheel~wheel",aggregatorCampaign:"p2p-spin-wheel~aggregator"']
+
+## ABOUT THE PROMOTION
+The Spin Games Wheel  - an offer where you fill your progress by placing total bets on Spin Dominoes, Spin Backgammon, and Spin Bura, then spin the wheel and win Spin tickets;
+## DATES OF THE PROMOTION
+Start:  November 26, 10:00. 
+  End:  December 7, 09:59.
+## WHEEL SPIN MECHANICS
+To spin the wheel, you need to complete the progress with your total bets on Spin Dominoes, Spin Backgammon, and Spin Bura within the daily count ( Bet 50₾ = 1 spin on the wheel ). During the daily count, you can receive a maximum of 10 spins; 
+   
+  The wheel prizes are Spin tickets worth:  1₾, 2₾, 5₾, 10₾, 20₾, 50₾, 100₾, and 500₾; 
+   
+  * Daily count: from 10:00 to 09:59; * Unused spins will expire at the end of the daily count; * Bets placed at cash tables and in tournaments do not count toward the promotion; * If you place a bet but leave the table before the game starts, the point will not be counted;
+## ABOUT THE PRIZES
+Spin tickets won from the wheel will be added to your balance, and you can use them in Spin games, until December 7, 16:00. 
+   
+   
+  Prize Sequence  
+ This document outlines the sequence of prizes available as part of the promotion: 
+   
+    Wheel Prizes
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users, who are in full compliance with the website rules;   
+  According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning;   
+  Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation;  
+  Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players;

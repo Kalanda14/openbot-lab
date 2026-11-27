@@ -1,0 +1,31 @@
+# Pragmatic Vip Wheel https://crocobet.com/landings/crc/pragmaticvipwheel
+rulesKey=['pragmaticvipwheel']
+endpoints=['campaign1:"pragmatic-wheel~main",campaign2:"pragmatic-wheel~aggregator",campaign3:"",currentDateEndpoint:"checktime"']
+
+## ABOUT THE PROMOTION
+The Pragmatic VIP Wheel  – an offer where you fill your progress by placing bets on any Pragmatic slot, then spin the wheel and win guaranteed free spins;
+## DATES OF THE PROMOTION
+Start:  November 19, 10:00  End:  November 29, 09:59
+## WHEEL SPIN MECHANICS
+To spin the wheel, place bets on any Pragmatic slot and complete the following progress levels: 
+   
+  5 000₾ → 10 000₾ → 25 000₾  
+   
+ Each completed level gives you 1 wheel spin (you can receive a maximum of 3 spins per day); 
+   
+  On the wheel, you can win:  100, 200, 300, 500, 1 000, 1 500, 2 500, 5,000, or 10 000 free spins. Every wheel spin guarantees a prize; 
+   
+ * The daily count: 10:00- 09:59; * Any unused spins of the wheel will be nullified at the end of the daily count;
+## ABOUT THE PRIZES
+The free spins will be credited to the respective balance instantly and can be withdrawn until 12:00 on November 19 in the following Pragmatic slots, at your preferred value: 
+   0.2₾ (Sweet Bonanza), 0.4₾ (Sweet Bonanza), 0.8₾ (Gates of Olympus), 1.8₾ (Gates of Olympus), 6₾ (Gates of Olympus). 
+   
+   Prize Sequence  
+ This document outlines the sequence of prizes available as part of the promotion: 
+   
+    Wheel Prizes
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users who are in full compliance with the website rules;   
+  According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address, will be disqualified from the promotion without warning;   
+  Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation;  
+  Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players;

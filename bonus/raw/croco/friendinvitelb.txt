@@ -1,0 +1,74 @@
+# Invite A Friend https://crocobet.com/landings/crc/friendinvitelb
+rulesKey=['inviteafriendleaderboard']
+endpoints=['campaign1:"invite-friend-enter-leaderboard",campaign2:"",campaign3:"",currentDateEndpoint:"checktime"']
+
+## ABOUT THE PROMOTION
+Invite a Friend  – an offer where you register a friend on Crocobet.com using your unique referral code or link, join the leaderboard, win free spins and various prizes. 
+ Additionally, your friend also receives free spins as a gift after verification;
+## DATES OF THE PROMOTION
+Start:  September 7, 12:00
+## RULES FOR REGISTERING A FRIEND
+To participate in the promotion: 
+   
+ 1. Share your invitation code or link with a friend who is not yet registered on Crocobet; 2. Your friend must register using the link you sent or enter the code you provided in the “Invitation Code” field during registration; 3. Your friend must complete the registration process and pass verification on Crocobet.com; 
+   
+ * Eligible participants must be citizens of Georgia, foreign nationals, or stateless persons holding a valid Georgian identity card or residence permit issued by the relevant Georgian authority;
+## MY GIFT
+Within the promotion, you have the opportunity to receive the following rewards: 
+   
+  1. Friend registration/verification  
+ I registered/verified friend = 50 free spins II registered/verified friend = 50 free spins III registered/verified friend = 50 free spins IV registered/verified friend = 50 free spins V registered/verified friend = 150 free spins 
+ * As part of the promotion, you can invite an unlimited number of friends.; 
+   
+  2. Deposit made by an invited friend  
+ If your invited friend makes any deposit, you will receive 2 leaderboard points (you can receive this reward only once per friend); 
+   
+  3. Wagered deposit by an invited friend  
+ If your invited friend makes a minimum deposit of 50₾ total within 3 days of registration and wagers it within 1 day on slots and fast games, you will receive 150 free spins and 5 leaderboard points (you can receive this reward only once per friend). In this case, your friend will also be rewarded with 50 free spins; 
+   
+  4. Min. 1 000₾ bet by an invited friend  
+ If your invited friend places a total bet of at least 1 000₾ on slots and fast games within 1 month of registration, you will receive 10 leaderboard points (you can receive this reward only once per friend); 
+   
+  * Free spins will be added to your free spin balance by 16:00 the next day; * The promotion includes all slots except: Joker Poker, Keno Universe, 4 of a Kind Poker, Jacks or Better Video Poker, EGT Roulette DP, Virtual Roulette, EGT Roulette; Fast Games: all games from SmartSoft, Aviator Studio, Next Level, BGaming, and iSoftBet; * Min. cashout coefficient must be 1.5 in the following games: UFO, UFOX, JetX, Aviator, Chicken Highway, Balloon, FootballX, HelicopterX, Mine Gems, Balloon Mania, Open It, Gold Digger Mines, Aztec Gold Mines, Cheesy Road; And 1.4 on Suit Runner;
+## LEADERBOARD
+You earn leaderboard points based on the activity of your invited friends: 
+   
+ Each friend’s deposit = 2 leaderboard points; 
+ Each friend’s minimum 50₾ wagered deposit = 5 leaderboard points; 
+ Each friend’s minimum 1 000₾ total wager = 10 leaderboard points; 
+   
+ The prize pool of the first two leaderboards (07.09–07.10 and 07.10–06.11) is distributed as follows: 
+  Position 1  – 1,500 free spins  Position 2  – 1,000 free spins  Position 3  – 700 free spins  Position 4  – 500 free spins  Position 5  – 400 free spins  Position 6  – 300 free spins  Position 7  – 250 free spins  Position 8  – 200 free spins  Position 9  – 150 free spins  Position 10  – 100 free spins 
+   
+ The prize pool of the remaining leaderboards is distributed as follows: 
+   
+  Position 1  - iPhone 17 Pro  Position 2  - Playstation PS 5 Slim  Position 3  - Marshall Major V Black  Position 4  - 500 free spins  Position 5  - 400 free spins  Position 6  - 300 free spins  Position 7  - 250 free spins  Position 8  - 200 free spins  Position 9  - 150 free spins  Position 10  - 100 free spins 
+   
+ * If you win an iPhone 17 Pro, Sony PlayStation PS 5 Slim, or Marshall Major V Black, you will receive a Croco Shop voucher via SMS by 16:00 on the following day after the current leaderboard ends. Please note that you can only use the voucher to purchase the item you won. * Free spins will be credited to your free spins balance by 16:00 the day after the leaderboard ends; * On the first day, the daily count runs from 12:00 to 23:59. On subsequent days, it runs from 00:00 to 23:59; * In case several users have the same number of points on the leaderboard, the user with the higher total bet amount will take the higher position; * In case several users have the same amount of points, the user who reached that position first will take the higher position on the leaderboard;
+## FRIEND’S GIFT
+If your invited friend makes a minimum deposit of 50₾ within 3 days of registration and wagers the deposit on slots and Fast Games by 23:59 on the day the deposit is made, they will receive 50 free spins; 
+   
+ In addition, your friend will be able to benefit from other Crocobet offers as well: 
+    Registration Missions
+## ABOUT THE FREE SPINS
+Free spins will be added to your free spin balance, and you can then withdraw them in the following slots and fast games at the desired value (1 free spin = 0.15₾); 
+   
+  Slots  
+  EGT Interactive  - 0.15₾ (5 Dazzling Hot), 0.5₾ (10 Burning Heart), 1₾ (20 Super Hot), 2₾ (100 Super Hot), 5₾ (Ultimate Hot); 
+  Netent&Redtiger  - 0.20₾ (Netent Starburst), 0.40₾ (Gonzo's Quest Megaways, Red Tiger), 1₾ (Netent - Jungle Spirit: Call of the wild), 2₾ (Redtiger - 4 squad); 
+  EGT Digital  - 0.15₾ (5 Dazzling Hot Clover Chance), 0.50₾ (50 Hot Blast Clover Chance), 1₾ (100 Super Hot Clover Chance); 
+  3 OAKS Gaming  - 0.25₾ (Sun of Egypt), 0.5₾ (Wolf Saga), 1₾ (Magic Apple), 2₾ (3 Coins); 
+  Pragmatic  - 0.2₾ (Sweet Bonanza), 0.4₾ (Sweet Bonanza), 0.8₾ (Gates of Olympus), 1.8₾ (Gates of Olympus), 6₾ (Gate Of Olympus); 
+   
+  Fast Games  
+ You can withdraw free spins in Aviator, JetX, and UFOX at the following values: 0.20₾, 0.50₾, 1₾, 2₾, 5₾, and 10₾;
+## ADDITIONAL RULES
+The promotion is valid for registered and verified users who are in full compliance with the website rules. 
+   
+ According to the general rules of Crocobet, creating and using more than one account is prohibited. Any player who uses more than one account, or participates multiple times from the same IP address will be disqualified from the promotion without warning. 
+   
+ Any player suspected of engaging in dishonest behavior will be automatically disqualified from the promotion, and the prize will not be credited/withdrawn without warning or any explanation. 
+   
+ Crocobet reserves the right to amend the rules of the promotion and/or cancel the promotion at any time without prior notice to players; 
+   
+ Spreading false or misleading information about the promotion’s terms, promoting the offer in bad faith, and any actions intended to mislead users or create a false impression are prohibited.
