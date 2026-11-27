@@ -35,13 +35,14 @@ def one(c):
                  x["price"] if x["outcome_index"] == 0 else 1 - x["price"], x["size"]) for x in rows if x["timestamp"] >= t0)
     if len(h) < 2: return None
     size, k = b["n"], b["k"]; yes = no = cash = 0.0; nf = 0; j = 0; vol = 0.0
-    start = max(t0, h[0]["t"])
+    start = max(t0, h[0]["t"]); lastp = None
     for i in range(len(h) - 1):
-        fair = h[i]["p"]; bid = math.floor(round((fair - .01) / k, 6)) * k; ask = math.ceil(round((fair + .01) / k, 6)) * k
+        while j < len(tr) and tr[j][0] < h[i]["t"]: lastp = tr[j][2]; j += 1
+        fair = lastp if lastp is not None else h[i]["p"]  # REAL last trade, not prices-history (stale/mid: weatheredge lesson 2026-11-26)
+        bid = math.floor(round((fair - .01) / k, 6)) * k; ask = math.ceil(round((fair + .01) / k, 6)) * k
         net = yes - no; rb = size if (bid > 0.005 and net < 2 * size) else 0; ra = size if (ask < 0.995 and net > -2 * size) else 0
-        while j < len(tr) and tr[j][0] < h[i]["t"]: j += 1
         while j < len(tr) and tr[j][0] < h[i + 1]["t"]:
-            t, buy, p, z = tr[j]; j += 1; vol += z
+            t, buy, p, z = tr[j]; j += 1; vol += z; lastp = p
             if buy and ra and p >= ask - 1e-9:
                 q = min(ra, z); ra -= q; nf += 1
                 if yes >= q: yes -= q; cash += ask * q
@@ -51,14 +52,14 @@ def one(c):
                 if no >= q: no -= q; cash += (1 - bid) * q
                 else: yes += q; cash -= bid * q
         kk = min(yes, no); yes -= kk; no -= kk; cash += kk
-    mark = h[-1]["p"]; pnl = cash + yes * mark + no * (1 - mark); days = max((h[-1]["t"] - start) / 86400, 0.04)
+    mark = lastp if lastp is not None else h[-1]["p"]; pnl = cash + yes * mark + no * (1 - mark); days = max((h[-1]["t"] - start) / 86400, 0.04)
     return dict(c=c, q=m["q"][:55], days=days, fills=nf, pnl_day=pnl / days, rate=b["r"], size=size, trades=len(tr),
                 inv=yes - no, move=h[-1]["p"] - h[0]["p"])
 
 
 with cf.ThreadPoolExecutor(4) as ex: R = [r for r in ex.map(one, list(watch)) if r]
 R.sort(key=lambda r: r["pnl_day"])
-print(f"{len(R)} markets, last {DAYS} d (or since listing), quote = hourly price +/- 1c, min size, filled first")
+print(f"{len(R)} markets, last {DAYS} d (or since listing), quote = hourly LAST REAL TRADE +/- 1c, min size, filled first")
 for r in R:
     print(f"  {r['q']:55s} days {r['days']:4.1f} trades {r['trades']:4d} fills {r['fills']:3d} "
           f"fillPnL/day {r['pnl_day']:+7.2f}  pool/day {r['rate']:5.0f}  move {r['move']:+.2f} inv {r['inv']:+.0f}")

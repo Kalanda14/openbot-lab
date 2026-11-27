@@ -130,3 +130,11 @@ empty book really centres on our own quote (only a live pilot answers this), and
 3. Each day: read `/rewards/user/total` (L2 auth) and compare with what `sim.py` predicted for the same minutes.
    That one number settles ambiguities 1-3. Hold for 3-7 days. Stop if rewards < 50% of the sim or fills < -$5/day.
 4. Run the bot on a VPS in a non-blocked region (docs: eu-west-1), with keys in env and never in git.
+
+## Correction 2026-11-27 (lead review)
+fillcheck.py first placed quotes at clob `prices-history` - the exact mistake from ~/Projects/weatheredge (2026-11-26):
+prices-history is stale/mid and real fills were ~10c away. Now quotes use the LAST REAL TRADE. Result (7 days, 45 markets):
+total fill P&L -$395/day (was -$312), median -$3.42/market, 20 markets lose > $5/day. The two Bank of Brazil Selic
+markets: -$1.55 and -$0.44/day (pool ~$100/day each) -> still the only clear candidates. sim.py uses real books + real
+trades (no prices-history), so it is not affected. Other old lessons kept: closed/hidden outcomes fake "free money"
+(edgetest), market is well calibrated (weatheredge), so the reward is the ONLY edge here, never price prediction.
