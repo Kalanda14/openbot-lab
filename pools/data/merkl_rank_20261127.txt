@@ -1,0 +1,49 @@
+file data/merkl_20261127.json, token campaigns 309
+earn$/mo@400 | tvl$ | pool$/day | apr% | days_left | action | chain | protocol | name | reward
+     950 |          1 |    31.7 |   2000177 |  19.0 | HOLD | Ethereum | Pendle | Hold YT Puffer ETH 26NOV2026 | wETH,YT-SY pufETH-26NOV2026
+     157 |       1574 |    25.8 |       599 |  15.7 | HOLD | Base | Pendle | Hold YT Dialectic Yielding GOOGLc 7JAN2027 | YT-yGOOGLc-7JAN2027
+      76 |      36885 |   235.7 |       233 |  38.4 | POOL | Ethereum | Sushiswap | Provide liquidity to SushiSwap SPC-USDC 0.3% | SPC,USDC
+      74 |      88688 |   547.6 |       225 |   5.6 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 USP-USDC 0.05% | USDC,USP
+      71 |       7528 |    47.1 |       228 |  29.9 | HOLD | Base |  | Hold YT TSLA SuperVault 8APR2027 | YT-superTSLA-8APR2027
+      70 |      26421 |   157.2 |       217 |   3.2 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 ETH-TEL 0.3% (Subscribed) | ETH,TEL
+      69 |       3843 |    24.5 |       232 |  29.9 | HOLD | Base |  | Hold YT NVDA SuperVault 8APR2027 | YT-superNVDA-8APR2027
+      55 |     192605 |   888.3 |       168 |  40.4 | HOLD | Ethereum | Pendle | Hold YT Staked infiniFi USD 7JAN2027 | YT-siUSD-7JAN2027,iUSD
+      55 |      21400 |    99.6 |       170 |  19.0 | POOL | Ethereum | Uniswap | Uniswap CARROT-USDC | USDC,CARROT
+      54 |         25 |     1.9 |      2807 | 242.9 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 ETH-BWLK 1% | ETH,BWLK
+      50 |      32900 |   138.4 |       154 |   2.8 | POOL | BNB Chain | Uniswap | Provide liquidity to Uniswap USDT-SKHYNIXs 0.3% | USDT,SKHYNIXs
+      44 |      47965 |   175.9 |       134 |   6.9 | POOL | Base | Beefy | Supply USDC-TTWOc in Beefy CLM pool | TTWOc,USDC
+      44 |      47965 |   175.9 |       134 |   6.9 | POOL | Base | Beefy | Supply USDC-TTWOc in Beefy CLM Vault | TTWOc,USDC
+      43 |      43817 |   157.2 |       131 |   3.2 | POOL | Polygon | Uniswap | Provide liquidity to UniswapV4 eUSD-eMXN 0.05% (Subscribed) | eMXN,eUSD
+      42 |      38150 |   133.9 |       128 |  12.7 | POOL | Robinhood Chain | Uniswap | Provide liquidity to UniswapV4 SPY-HIMS 0.05% | HIMS,SPY
+      37 |       9203 |    29.8 |       118 |   2.8 | POOL | Monad | PancakeSwap | Provide liquidity to PancakeSwap AUSD-WMON 0.05% | WMON,AUSD
+      35 |       2594 |     8.7 |       123 |   2.8 | POOL | Monad | Beefy | Supply AUSD-WMON in Beefy CLM pool | WMON,AUSD
+      35 |       2594 |     8.7 |       123 |   2.8 | POOL | Monad | Beefy | Supply AUSD-WMON in Beefy CLM Vault | WMON,AUSD
+      34 |      60061 |   171.1 |       104 |   4.8 | SWAP | Robinhood Chain | Jumper | Buy and hold ST0x tokenized assets via Jumper on Robinhood | wtSPYM
+      34 |      60061 |   171.1 |       104 |   4.8 | SWAP | Base | Jumper | Buy and hold ST0x tokenized assets via Jumper on Base | wtSPYM
+      34 |      29072 |    82.7 |       104 |  30.9 | POOL | Monad | LFJ | Deposit WMON and USDC in POE PropAMM Vault by LFJ | WMON,USDC
+      31 |     140090 |   357.1 |        93 |  12.7 | POOL | Robinhood Chain | Uniswap | Provide liquidity to UniswapV4 SPY-MU 0.05% | MU,SPY
+      30 |      61894 |   157.2 |        93 |   3.2 | POOL | Polygon | Uniswap | Provide liquidity to UniswapV4 WETH-TEL 0.3% (Subscribed) | TEL,wETH
+      28 |      66242 |   157.2 |        87 |   3.2 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 eUSD-TEL 0.3% (Subscribed) | eUSD,TEL
+      28 |     152239 |   357.1 |        86 |  12.7 | POOL | Robinhood Chain | Uniswap | Provide liquidity to UniswapV4 SPY-TSLA 0.035% | TSLA,SPY
+      25 |      74320 |   157.2 |        77 |   3.2 | POOL | Polygon | Uniswap | Provide liquidity to UniswapV4 eUSD-TEL 0.3% (Subscribed) | TEL,eUSD
+      25 |      82695 |   171.4 |        76 |  12.7 | POOL | Robinhood Chain | Uniswap | Provide liquidity to UniswapV4 SPY-AMD 0.05% | AMD,SPY
+      23 |      83175 |   157.2 |        69 |   3.2 | POOL | Base | Uniswap | Provide liquidity to UniswapV4 ETH-TEL 0.3% (Subscribed) | ETH,TEL
+      22 |      60512 |   111.0 |        67 |  28.2 | HOLD | Ethereum |  | Hold XAUSD (XAUSD) | XAUSD
+      22 |      96256 |   175.9 |        67 |   6.9 | POOL | Base | Beefy | Supply ANTc-USDC in Beefy CLM pool | ANTc,USDC
+      22 |      96256 |   175.9 |        67 |   6.9 | POOL | Base | Beefy | Supply rcowAeroBaseANTc-USDC in Beefy CLM Vault | rcowAeroBaseANTc-USDC
+      21 |      88109 |   157.2 |        65 |   3.2 | POOL | Base | Uniswap | Provide liquidity to UniswapV4 eUSD-TEL 0.3% (Subscribed) | TEL,eUSD
+      21 |       5011 |     9.5 |        69 | 131.6 | POOL | Immutable | Quickswap | Provide liquidity to QuickSwap WIMX-GOG 0.3% | GOG,WIMX
+      19 |       1960 |     3.8 |        71 |   2.9 | HOLD | Monad | Pendle | Hold YT earnAUSD 28JAN2027 | AUSD,YT-earnAUSD-28JAN2027
+      18 |     125675 |   192.1 |        56 |  19.0 | HOLD | Ethereum | Puffer | Lock PUFFER in vlPUFFER | vlPUFFER
+      18 |     170888 |   259.8 |        55 |   4.7 | HOLD | Citrea |  | Supply BTC to Citrea cBTC Earn Vault | earnCBTC
+      18 |      57576 |    85.4 |        54 |  33.3 | POOL | Hemi | Sushiswap | Provide liquidity to SushiSwap HEMI-USDC.e 0.05% | HEMI,USDC.e
+      17 |     116166 |   166.1 |        52 |  38.4 | POOL | Hemi | Sushiswap | Provide liquidity to SushiSwap HEMI-USDT 0.05% | USDT,HEMI
+      15 |      56519 |    73.5 |        47 |   6.6 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 USDC-MUSD 0.01% | MUSD,USDC
+      15 |         47 |     0.6 |       430 |   2.2 | HOLD | Base |  | Hold Senior Syntetika Hilbert BTC | sr-hBTC
+      14 |      98372 |   118.3 |        44 |  19.0 | HOLD | Ethereum | Puffer | Lock CARROT on Puffer | mtwCARROT
+      12 |    3698066 |  3755.2 |        37 |   5.2 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 BOLD-USDC 0.05% | BOLD,USDC
+      12 |      21406 |    22.0 |        38 |  52.0 | POOL | Ethereum | Uniswap | Provide liquidity to UniswapV4 ETH-AUTO 0.3% | ETH,AUTO
+      12 |     139497 |   138.9 |        36 |   2.9 | POOL | Monad | Uniswap | Provide liquidity to UniswapV4 MON-USDC 0.05% | MON,USDC
+      11 |     572699 |   547.6 |        35 |   5.6 | LEND | Ethereum |  | [UNVERIFIED] Supply to Morini USDC Emerging Yield V2 vault on Morpho o | USDC,morUSDCemerging
+
+all token campaigns: $149,713/day; TVL<$20k: 47 campaigns, $233/day total

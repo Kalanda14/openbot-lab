@@ -1,0 +1,14 @@
+active markets 479, rewardable flag 276, with dailyReward>0: 12
+total daily reward $26.00
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | OpenAI IPO by __? / June 30, 2026
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Fed rate cut by __? / June Meeting
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Solana all time high by ___? / June 30, 2026
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Bitcoin all time high by ___? / June 30, 2026
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | XRP all time high by ___? / June 30, 2026
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Ethereum all time high by ___? / June 30, 2026
+$    3.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Will Base launch a token by __ ? / June 30, 2026
+$    1.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | OpenAI IPO by __? / July 31, 2026
+$    1.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | OpenAI IPO by __? / August 31, 2026
+$    1.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Fed rate cut by __? / July Meeting
+$    1.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Fed rate cut by __? / September Meeting
+$    1.00/d | min    100 | spr 0.035 | mid None | bid_in         0 | ask_in         0 | vol 0.000000 | Will Ink launch a token by ___? / June 30, 2026

@@ -1,0 +1,125 @@
+{
+ "markets": 479,
+ "rewarded": [
+  {
+   "slug": "june-30-2026-1779881117586",
+   "title": "OpenAI IPO by __? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-meeting-1779881657536",
+   "title": "Fed rate cut by __? / June Meeting",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1775136694220",
+   "title": "Solana all time high by ___? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1775135445337",
+   "title": "Bitcoin all time high by ___? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1775137169951",
+   "title": "XRP all time high by ___? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1775136208593",
+   "title": "Ethereum all time high by ___? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1779880512270",
+   "title": "Will Base launch a token by __ ? / June 30, 2026",
+   "daily": 3.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "july-31-2026-1779881117593",
+   "title": "OpenAI IPO by __? / July 31, 2026",
+   "daily": 1.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "august-31-2026-1779881117596",
+   "title": "OpenAI IPO by __? / August 31, 2026",
+   "daily": 1.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "july-meeting-1779881657546",
+   "title": "Fed rate cut by __? / July Meeting",
+   "daily": 1.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "september-meeting-1779881657549",
+   "title": "Fed rate cut by __? / September Meeting",
+   "daily": 1.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  },
+  {
+   "slug": "june-30-2026-1780675099153",
+   "title": "Will Ink launch a token by ___? / June 30, 2026",
+   "daily": 1.0,
+   "minSize": 100.0,
+   "maxSpread": 0.035,
+   "vol": "0.000000",
+   "tradeType": "clob",
+   "ob_err": "HTTP Error 400: Bad Request"
+  }
+ ]
+}

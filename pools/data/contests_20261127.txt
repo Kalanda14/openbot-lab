@@ -1,0 +1,33 @@
+
+Cantina all-time (reward): n=1553, with >0 = 1366, total $14,299,387
+  top1 $932,506 | top10 avg $439,890 | p10 $17,230 | p25 $3,903 | median $373 | p75 $20
+  share of total to top 10: 31%, top 50: 57%
+  earned >= $1,000: 620
+  earned >= $10,000: 221
+  earned >= $50,000: 66
+  earned >= $100,000: 24
+  Cantina auditors with 0 H/M/C findings but >0 reward: 56
+
+Code4rena leaderboard page (default range): n=2446, with >0 = 1661, total $2,780,624
+  top1 $168,783 | top10 avg $76,517 | p10 $1,579 | p25 $344 | median $7 | p75 $0
+  share of total to top 10: 28%, top 50: 58%
+  earned >= $1,000: 361
+  earned >= $10,000: 65
+  earned >= $50,000: 8
+  earned >= $100,000: 2
+
+Cantina competitions listed: 146
+  status: {'live': 1, 'complete': 144, 'escalations_ended': 1}
+  created last 6 months: 3, sum of headline pots $480,000 (= $80,000/month headline; many pots are 'up to' and shrink if no High/Medium)
+  2026-11-18 | live | pot $  400,000 | findings 282 | KYC True | fee 30.00 | Morpho Midnight Adapter
+  2026-09-21 | escalations_ended | pot $   50,000 | findings 7079 | KYC True | fee None | Revert v4lend Competition
+  2026-08-10 | complete | pot $   30,000 | findings 146 | KYC True | fee None | Royco Day
+  KYC required: 3/3
+  half-year | contests | headline pots | findings submitted | findings per $1k pot
+  2023H2 | 7 | $470,000 | 1937 | 4.1
+  2024H1 | 20 | $4,102,500 | 6385 | 1.6
+  2024H2 | 33 | $7,998,158 | 11398 | 1.4
+  2025H1 | 63 | $32,545,878 | 23121 | 0.7
+  2025H2 | 14 | $938,000 | 8320 | 8.9
+  2026H1 | 6 | $649,500 | 9551 | 14.7
+  2026H2 | 3 | $480,000 | 7507 | 15.6
