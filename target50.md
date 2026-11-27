@@ -1,0 +1,12 @@
+>> profit +€40 (10%) cap 30x: backtest 76% | cautious 68% | P(lose >€100) 3%/4%
+>> profit +€40 (10%) cap 60x: backtest 77% | cautious 69% | P(lose >€100) 2%/4%
+>> profit +€60 (15%) cap 30x: backtest 70% | cautious 59% | P(lose >€100) 4%/6%
+>> profit +€60 (15%) cap 60x: backtest 71% | cautious 62% | P(lose >€100) 4%/7%
+>> profit +€80 (20%) cap 30x: backtest 63% | cautious 54% | P(lose >€100) 5%/9%
+>> profit +€80 (20%) cap 60x: backtest 65% | cautious 56% | P(lose >€100) 6%/10%
+>> profit +€100 (25%) cap 30x: backtest 56% | cautious 46% | P(lose >€100) 6%/10%
+>> profit +€100 (25%) cap 60x: backtest 59% | cautious 51% | P(lose >€100) 8%/10%
+>> profit +€133 (33%) cap 30x: backtest 48% | cautious 37% | P(lose >€100) 8%/11%
+>> profit +€133 (33%) cap 60x: backtest 53% | cautious 44% | P(lose >€100) 10%/13%
+>> profit +€200 (50%) cap 30x: backtest 35% | cautious 27% | P(lose >€100) 11%/15%
+>> profit +€200 (50%) cap 60x: backtest 41% | cautious 31% | P(lose >€100) 12%/16%
