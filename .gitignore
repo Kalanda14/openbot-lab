@@ -7,3 +7,4 @@ pathsd/
 *.npz
 dbdata/
 !paper/*.csv
+fast15/raw/
