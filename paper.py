@@ -11,9 +11,10 @@ Writes paper/state.json, paper/ledger.csv (date, sleeve, ret), paper/README.md (
 import json, os, sys, time, datetime as dt
 from zoneinfo import ZoneInfo
 import numpy as np, pandas as pd, requests
+import challenge as CH
 
 NY = ZoneInfo("America/New_York"); P = "paper"; os.makedirs(P, exist_ok=True)
-W = dict(B=0.626, ON=0.388, TREND=0.036, CARRY=3.0); CASH = 0.038
+W = dict(B=0.626, ON=0.388, TREND=0.036, CARRY=3.0, GOLD=0.2); CASH = 0.038
 UA = {"User-Agent": "Mozilla/5.0"}
 st = json.load(open(f"{P}/state.json")) if os.path.exists(f"{P}/state.json") else {}
 now = dt.datetime.now(NY)
@@ -26,9 +27,9 @@ def ledger(date, sleeve, ret, note=""):
         f.write(f"{date},{sleeve},{ret:.6f},{note}\n")
 
 
-def nq5():
+def nq5(sym="NQ=F", interval="5m", rng="60d"):
     for k in range(4):
-        r = requests.get("https://query1.finance.yahoo.com/v8/finance/chart/NQ=F", params=dict(interval="5m", range="60d"), headers=UA, timeout=30)
+        r = requests.get(f"https://query1.finance.yahoo.com/v8/finance/chart/{sym}", params=dict(interval=interval, range=rng), headers=UA, timeout=30)
         if r.ok: break
         time.sleep(10)
     j = r.json()["chart"]["result"][0]; q = j["indicators"]["quote"][0]
@@ -48,19 +49,43 @@ def intraday():
         prev = [x for x in days if x < now.date()]
         pc = float(rth[rth.index.date == prev[-1]].c.iloc[-1]) if prev else o
         if abs(pc / o - 1) > 0.08: pc = o  # only a contract-roll glitch, not a real gap
-        s.clear(); s.update(date=str(now.date()), open=o, pc=pc, pos=0, e=0.0, pnl=0.0, done=False, trades=[])
-        if "ON" in st and st["ON"].get("entry"):  # close overnight at today's open
-            on = st.pop("ON"); r = o / on["entry"] - 1 - 0.00005
-            ledger(now.date(), "ON", r * W["ON"], f"raw {r:+.4%}")
+        s.clear(); s.update(date=str(now.date()), open=o, pc=pc, pos=0, e=0.0, pnl=0.0, done=False, trades=[], u=0.0, blev=0.0)
+        CH.new_day(st, now.date())
+        if "ON" in st and st["ON"].get("entry"):  # close overnight at today's 03:30 ET (plan: 15:55 -> 03:30)
+            on = st.pop("ON"); x = d[(d.index.date == now.date()) & (d.index.time >= dt.time(3, 30))]
+            px = float(x.o.iloc[0]) if len(x) else o
+            r = px / on["entry"] - 1 - 2.5 / on["entry"]  # ~2.5 NQ pt CFD round trip
+            ledger(now.date(), "ON", r * W["ON"], f"raw {r:+.4%} exit {px}"); CH.raw(st, "ON", r)
+            if on.get("lev") is not None: CH.apply(st, "ON", r, 0.0, f"night {on['date']}", lev=on["lev"])
+        if "GOLD" in st and st["GOLD"].get("entry"):  # gold night: GLD 15:55 -> today's 09:30 open
+            gd = st.pop("GOLD")
+            try:
+                gl = nq5("GLD", "5m", "5d"); gt = gl[gl.index.date == now.date()]
+                if len(gt):
+                    r = float(gt.o.iloc[0]) / gd["entry"] - 1 - 0.00015
+                    ledger(now.date(), "GOLD", r * W["GOLD"], f"raw {r:+.4%}")
+                    if gd.get("lev") is not None: CH.apply(st, "GOLD", r, 0.0, f"night {gd['date']}", lev=gd["lev"])
+            except Exception as ex: print("gold settle failed", ex)
     if s["done"]: return
     mins = now.hour * 60 + now.minute - 570
-    jobs = now.weekday() == 4 and now.day <= 7; rt = 0.7
+    jobs = now.weekday() == 4 and now.day <= 7; rt = 2.0  # CFD round trip (pt)
+    def bmark(c, frac):  # challenge: book B's unit P&L since the last check at the leverage that was in force
+        u = (s["pnl"] + (s["pos"] * (c - s["e"]) if s["pos"] else 0)) / s["open"]
+        if s.get("blev") and abs(u - s.get("u", 0)) > 0: CH.apply(st, "B", u - s.get("u", 0), frac, f"B {now:%H:%M}", jobs=jobs, lev=s["blev"])
+        s["u"] = u
     if mins >= 385:  # 15:55 -> flat B, open overnight
         c = float(today.c.iloc[-1])
         if s["pos"]: s["pnl"] += (c - s["e"]) * s["pos"] - rt; s["trades"].append([str(now.time())[:5], "flat", c]); s["pos"] = 0
+        bmark(c, 1.0)
         r = s["pnl"] / s["open"] * (2 if jobs else 1)
-        ledger(now.date(), "B", r * W["B"], f"raw {r:+.4%} trades {len(s['trades'])}"); s["done"] = True
-        st["ON"] = dict(entry=c, date=str(now.date()))
+        ledger(now.date(), "B", r * W["B"], f"raw {r:+.4%} trades {len(s['trades'])}"); s["done"] = True; CH.raw(st, "B", s["pnl"] / s["open"])
+        prev = st.get("on_prev"); st["on_prev"] = c
+        live = st.get("CH", {}).get("state") == "running"
+        if prev and c < prev:  # overnight only after a down day (15:55 < previous 15:55)
+            st["ON"] = dict(entry=c, date=str(now.date()), lev=CH.lev_for(st, "ON", 1.0) if live else None)
+        try:
+            gl = nq5("GLD", "5m", "1d"); st["GOLD"] = dict(entry=float(gl.c.iloc[-1]), date=str(now.date()), lev=CH.lev_for(st, "GOLD", 1.0) if live else None)
+        except Exception as ex: print("gold entry failed", ex)
         return
     k = (mins // 30) * 30
     if k < 30 or s.get("last_k") == k or mins - k > 25: return
@@ -76,9 +101,11 @@ def intraday():
     ub, lb = max(o, s["pc"]) * (1 + sg), min(o, s["pc"]) * (1 - sg)
     if s["pos"] and ((s["pos"] == 1 and c < ub) or (s["pos"] == -1 and c > lb)):
         s["pnl"] += (c - s["e"]) * s["pos"] - rt; s["pos"] = 0; s["trades"].append([f"{9 + (30 + k) // 60}:{(30 + k) % 60:02d}", "exit", c])
+    bmark(c, k / 390)
     if not s["pos"]:
         if c > ub: s["pos"], s["e"] = 1, c; s["trades"].append([f"{9 + (30 + k) // 60}:{(30 + k) % 60:02d}", "long", c])
         elif c < lb: s["pos"], s["e"] = -1, c; s["trades"].append([f"{9 + (30 + k) // 60}:{(30 + k) % 60:02d}", "short", c])
+    s["blev"] = CH.lev_for(st, "B", k / 390) if (s["pos"] and st.get("CH", {}).get("state") == "running") else 0.0
 
 
 def kl(sym, n=120):
@@ -115,6 +142,11 @@ def daily():
         drift = (c.iloc[-1] / c.iloc[-2] - 1) - (b / a - 1) if a and b else 0.0
         car.append(fr + drift - CASH / 365)
     ledger(y, "TREND", float(np.mean(tr)) * W["TREND"], f"pos BTC {st['TREND']['BTCUSDT']['pos']} ETH {st['TREND']['ETHUSDT']['pos']}")
+    CH.raw(st, "TREND", float(np.mean(tr)))
+    if float(np.mean(tr)) != 0: CH.apply(st, "TREND", float(np.mean(tr)), 0.0, f"crypto {y}")
+    try:
+        nd = nq5("NQ=F", "1d", "6mo"); CH.maybe_start(st, y, [float(x) for x in nd.c.values[:-1]])  # completed days only
+    except Exception as ex: print("start-rule check failed", ex)
     ledger(y, "CARRY", float(np.mean(car)) * W["CARRY"], f"raw {np.mean(car):+.5%}")
     st["daily_done"] = str(y)
 
@@ -129,6 +161,7 @@ def board():
              f"days: {len(book)} | book return: {eq.iloc[-1] - 1:+.2%} | Sharpe so far: {sh:+.2f} (needs months to mean anything)\n",
              "| sleeve | total return contribution | days |", "|---|---|---|"]
     for c in by: lines.append(f"| {c} | {by[c].sum():+.3%} | {(by[c] != 0).sum()} |")
+    lines += CH.board_lines(st)
     lines.append("\nlast 10 ledger rows:\n\n```\n" + L.tail(10).to_string(index=False) + "\n```")
     open(f"{P}/README.md", "w").write("\n".join(lines) + "\n")
 
