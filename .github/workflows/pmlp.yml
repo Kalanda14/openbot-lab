@@ -1,0 +1,22 @@
+name: pmlp
+# Polymarket liquidity-rewards PAPER test: public read-only endpoints, no keys, no orders.
+on:
+  schedule:
+    - cron: "*/10 * * * *"    # GitHub often delays/skips; sim.py caps gaps (--maxgap) so missed runs count as "not quoting"
+  workflow_dispatch:
+permissions: {contents: write}
+concurrency: {group: pmlp, cancel-in-progress: false}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: python pmlp/collect.py    # stdlib only
+      - run: |
+          git config user.name "pmlp-bot"; git config user.email "124206442+Kalanda14@users.noreply.github.com"
+          git add -A pmlp/data && git commit -q -m "pmlp: $(date -u +%F_%H%M)" || exit 0
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep $((RANDOM % 10 + 5)); done
+          exit 1

@@ -8,3 +8,4 @@ pathsd/
 dbdata/
 !paper/*.csv
 fast15/raw/
+!pmlp/data/
