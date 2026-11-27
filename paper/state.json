@@ -1,1 +1,13 @@
-{}
+{
+ "TREND": {
+  "BTCUSDT": {
+   "pos": 0,
+   "best": 0.0
+  },
+  "ETHUSDT": {
+   "pos": 0,
+   "best": 0.0
+  }
+ },
+ "daily_done": "2026-11-26"
+}
