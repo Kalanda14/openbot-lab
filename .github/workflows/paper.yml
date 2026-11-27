@@ -17,7 +17,8 @@ jobs:
         with: {python-version: "3.12"}
       - run: pip install pandas numpy requests
       - run: |
-          if [ "$(date -u +%H)" = "00" ]; then python paper.py daily; else python paper.py intraday; fi
+          python paper.py daily      # runs every time; does work only once per UTC day (GitHub crons can be hours late)
+          python paper.py intraday
       - run: |
           git config user.name "paper-bot"; git config user.email "124206442+Kalanda14@users.noreply.github.com"
           git add paper/ && git commit -m "paper: $(date -u +%F_%H%M)" || exit 0

@@ -82,7 +82,7 @@ def intraday():
 
 
 def kl(sym, n=120):
-    r = requests.get("https://api.binance.com/api/v3/klines", params=dict(symbol=sym, interval="1d", limit=n), timeout=30).json()
+    r = requests.get("https://data-api.binance.vision/api/v3/klines", params=dict(symbol=sym, interval="1d", limit=n), timeout=30).json()
     d = pd.DataFrame(r).iloc[:, :5].astype(float); d.index = pd.to_datetime(d[0], unit="ms"); d.columns = ["t", "o", "h", "l", "c"]
     return d.iloc[:-1]  # completed days only
 
