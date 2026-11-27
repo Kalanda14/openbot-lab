@@ -1,0 +1,13 @@
+> cap 30 spread 0x prop False: X* = +EUR 77  (backtest 55%, cautious 50%)
+> cap 30 spread 0x prop True: X* = +EUR 55  (backtest 56%, cautious 50%)
+> cap 30 spread 3x prop False: X* = +EUR 90  (backtest 59%, cautious 50%)
+> cap 30 spread 3x prop True: X* = +EUR 67  (backtest 58%, cautious 50%)
+> cap 60 spread 0x prop False: X* = +EUR 89  (backtest 55%, cautious 50%)
+> cap 60 spread 0x prop True: X* = +EUR 75  (backtest 55%, cautious 50%)
+> cap 60 spread 3x prop False: X* = +EUR 105  (backtest 59%, cautious 50%)
+> cap 60 spread 3x prop True: X* = +EUR 85  (backtest 60%, cautious 50%)
+> cap 100 spread 0x prop False: X* = +EUR 91  (backtest 54%, cautious 50%)
+> cap 100 spread 0x prop True: X* = +EUR 80  (backtest 54%, cautious 50%)
+> cap 100 spread 3x prop False: X* = +EUR 109  (backtest 59%, cautious 51%)
+> cap 100 spread 3x prop True: X* = +EUR 94  (backtest 57%, cautious 50%)
+>> SOLUTION: X* = +EUR 109 with cap 100, spread 3x, Topstep test False
