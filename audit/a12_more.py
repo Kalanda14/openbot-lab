@@ -1,0 +1,16 @@
+"""a12 part 4: small follow-up grid on wealth-aware caps (3-level, f, path-drawdown trigger, late-game only) + 21-day refs."""
+exec(open("/Users/churchxelachurchxela/Projects/openbot-lab/audit/a12_base.py").read())
+import json; R = {}
+def go(nm, **kw): R[nm] = run(nm, **kw)
+P("| variant | SA hit/<100 | ST | S17 |\n|---|---|---|---|")
+lvl = lambda a, b, c, w1, w2: (lambda W, i, d, l, m: np.where(W >= w1, a, np.where(W >= w2, b, c)))
+go("G 3-level 100 (W>=300) / 50 (>=200) / 10", capf=lvl(100, 50, 10, 300, 200))
+go("G 3-level 100 (W>=300) / 30 (>=200) / 10", capf=lvl(100, 30, 10, 300, 200))
+go("G 3-level 150 (W>=350) / 50 (>=250) / 20", capf=lvl(150, 50, 20, 350, 250))
+st = lambda W, i, d, l, m: np.where(W >= 250, 100, 30)
+for f_ in (0.35, 0.7): go(f"H step hi100 W<250->cap30, f{f_}", capf=st, f=f_)
+go("I path-drawdown: cap100 while minW>=250 else 30", capf=lambda W, i, d, l, m: np.where(m >= 250, 100, 30))
+go("J late-game only: cap10 if W<250 and day>=21", capf=lambda W, i, d, l, m: np.where((W < 250) & (i >= 21), 10, 100))
+go("ref 21d base cap100", days=21); go("ref 21d step hi100 W<250->cap30", days=21, capf=st)
+json.dump(R, open(f"{LAB}/audit/a12_more.json", "w"))
+open(f"{LAB}/audit/a12_more.md", "w").write("\n".join(out))
