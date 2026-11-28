@@ -1,0 +1,707 @@
+NinjaTrader Arena  
+by NinjaTrader, LLC 
+a software development company. 
+ 
+ENTRY AND AGREEMENT TERMS AND CONDITIONS 
+NINJATRADER ARENA BY NINJATRADER, LLC (THE “PROGRAM”) IS A COMPETITION 
+OF SKILL. THE PROGRAM IS OPEN TO LEGAL RESIDENTS OF ELIGIBLE STATES, 
+TERRITORIES, AND COUNTRIES WHO MEET THE ELIGIBLE AGE REQUIREMENT AND 
+ALL OTHER ELIGIBILITY REQUIREMENTS, AS DETERMINED BY NINJATRADER, LLC  
+IN ITS SOLE DISCRETION. AS USED HEREIN: (A) "PROGRAM ADMINISTRATOR" OR 
+"NINJATRADER" MEANS NINJATRADER, LLC, THE ENTITY THAT OPERATES THE 
+TRADING PLATFORM, ADMINISTERS THE COMPETITION, AND MAKES ALL 
+DECISIONS REGARDING ELIGIBILITY, RULES, AND AWARDS; (B) "PRIZE SPONSOR" 
+MEANS ANY UNAFFILIATED THIRD PARTY THAT HAS ENTERED INTO A WRITTEN 
+SPONSORSHIP AGREEMENT WITH NINJATRADER TO PROVIDE OR FUND PRIZES FOR 
+A SPECIFIC COMPETITION, AS IDENTIFIED ON THE APPLICABLE PROGRAM PAGE; 
+AND (C) "SPONSOR" (WHEN USED WITHOUT QUALIFICATION) REFERS TO 
+NINJATRADER IN ITS CAPACITY AS PROGRAM ADMINISTRATOR UNLESS THE 
+CONTEXT CLEARLY INDICATES OTHERWISE. NOT ALL COMPETITIONS WILL HAVE A 
+PRIZE SPONSOR; THE PROGRAM PAGE FOR EACH COMPETITION WILL SPECIFY 
+WHETHER A PRIZE SPONSOR IS INVOLVED AND THE IDENTITY OF SUCH PRIZE 
+SPONSOR. DO NOT ENTER AND DO NOT PARTICIPATE IF YOU ARE NOT ELIGIBLE 
+AND/OR UNABLE TO PROVIDE PROOF OF YOUR ELIGIBILITY AS MAY BE REQUIRED 
+BY THE SPONSOR; IF YOU ARE LOCATED IN OR A RESIDENT OF ANY STATE, 
+TERRITORY OR COUNTRY AT THE TIME OF ENTRY WHERE THE PROGRAM IS 
+UNLAWFUL, WHERE PARTICIPATION IN THE PROGRAM WOULD BE UNLAWFUL, 
+AND/OR WHERE REGISTRATION, BONDING OR LOCALIZATION MAY BE OR IS 
+REQUIRED. YOU ARE SOLEY RESPONSIBLE FOR CONFIRMING THAT YOUR 
+PARTICIPATION IN THE PROGRAM COMPLIES WITH APPLICABLE LAWS IN YOUR 
+JURISDICTION. THE PROGRAM IS VOID WHERE PROHIBITED BY LAW, REGULATION, 
+RULE, ORDINANCE OR OTHERWISE. 
+NO PURCHASE OR PAYMENT OF ANY KIND IS NECESSARY TO PARTICIPATE OR WIN. A 
+PURCHASE WILL NOT INCREASE YOUR CHANCES OF WINNING. 
+PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY BEFORE USING ANY 
+WEBSITES AND BEFORE APPLYING OR PARTICIPATING IN THE PROGRAM. 
+By participating in the Program, all participants (“You”, “Your” and “Participant”) agree to each 
+and all of these “Terms and Conditions” and all decisions of the Sponsor, including without any 
+limitation, decisions regarding eligibility, disqualification, winners, prize fulfillment and forfeiture, 
+and interpretation of these Terms and Conditions, which are final and binding in all respects.  
+Please refer to https://arena.ninjatrader.com (the “Program Page”) for further details applicable to 
+the Program.  Do not use the websites, enter the Program or participate in the Program, unless you agree to 
+the Terms and Conditions and are eligible to participate in the Program. 
+1. ELIGIBILITY:  
+The Program is open to legal residents of all fifty (50) states of the United States of America, its territories 
+and possessions, and all other countries and jurisdictions not listed in the Restricted Territories (defined 
+below), where participation or promotion of the Program does not violate federal, state, province, territory, 
+or local laws, regulations, rules, or ordinances and who are the greater of: (a) eighteen (18) years old or, if a 
+legal resident of any of the following states or provinces/territories, nineteen (19) years old: Nebraska 
+(United States) and Alabama (United States), and (b) the age of majority in Participant’s respective state or 
+province/territory (the “Eligible Age”). 
+Restricted Territories. Notwithstanding the foregoing, the Program is NOT open to residents of, or 
+persons physically located in, any of the following countries or jurisdictions (collectively, the "Restricted 
+Territories"): 
+● Sanctioned Jurisdictions: Belarus, Cuba, Iran, Iraq, Libya, North Korea, Palestine, Syria, Yemen 
+● Asia/Pacific: Mongolia, Myanmar, Timor-Leste 
+● Europe: Albania 
+● Africa: Angola, Benin, Burkina Faso, Burundi, Cabo Verde, Cameroon, Chad, Congo 
+(Brazzaville), Congo (Kinshasa), Djibouti, Equatorial Guinea, Eritrea, Eswatini, Gabon, Guinea, 
+Guinea-Bissau, Ivory Coast, Liberia, Mali, Mozambique, Niger, Sao Tome and Principe, Sierra Leone, 
+Somalia, South Sudan, Sudan, Togo, Zimbabwe 
+The Restricted Territories list may be updated by the Sponsor at any time, in its sole and absolute 
+discretion, upon notice posted on the Program Page. It is Your sole responsibility to confirm that Your 
+country of residence and physical location are not Restricted Territories at the time of registration and 
+throughout the Program Period. To be eligible, a Participant must not be subject to any sanctions 
+administered or imposed by the Office of Foreign Assets Control of the U.S. Department of the Treasury, 
+the European Union, HM Treasury, the United Nations Security Council, or any other government entity or 
+regulatory authority which has jurisdiction over the Participant. Do not enter and do not participate in the 
+Program if you are unclear on how the jurisdiction where you reside would treat the lawfulness or the 
+legality of this Program and your entry or participation in the Program.   
+Employees, contractors, directors, representatives, agents, and officers of the Sponsor (and, if applicable, 
+any Prize Sponsor), and its parents, affiliates, subsidiaries, distributors, sales representatives, retailers, and 
+advertising, promotion and judging agencies and all other service agencies involved with the Program, and 
+members of the immediate family (including without limitation spouse, parent, child, sibling and their 
+respective spouse) and household (whether related or not related) of each such person are not eligible to 
+participate in the Program unless otherwise specifically permitted by the Sponsor. The Program is not 
+offered to You, and You are not eligible to win if You are a resident of a jurisdiction where the promotion of 
+this Program by the Sponsor, or Prize Sponsor if applicable, or participation in the Program by You violates 
+any laws, rules, regulations, or ordinances.  To be eligible, the first and last name for Your account for the 
+Program must match the Your legal first and last name on Your government issued identification. Each 
+Participant is subject to verification by the Sponsor, including without limitation, to the verification of Your 
+legal first and last name, age, residence and any other eligibility criteria deemed necessary by the Sponsor, 
+in its sole and absolute discretion, and in the manner or form deemed necessary by the Sponsor, in its sole 
+and absolute discretion.  Failure of You to provide the requested and required proof of eligibility, in the 
+manner and form and within the time period required by the Sponsor, in its sole and absolute discretion, 
+will or may result in a finding of determination of ineligibility of You in the Program by the Sponsor, in its 
+sole and absolute discretion. If a Participant is found not to be eligible or not in compliance with these 
+Terms and Conditions, the Participant will be disqualified in the sole and absolute discretion of the 
+Sponsor.   
+Sponsor reserves the right to disqualify any Participant if it is demonstrated on reasonable grounds, as 
+determined in the sole and absolute discretion of the Sponsor, that the Participant’s participation in the 
+Program or receipt of prize (A) would violate any laws, regulations, rules, or ordinances; (B) would violate 
+these Terms and Conditions; or (C) would or may damage the reputation of the Sponsor, any Prize Sponsor, 
+any Participant, and/or any other individual or entity. Sponsor also reserves the right, at any time and in its 
+sole and absolute discretion, to disqualify and/or deem ineligible to participate in this Program, You and 
+any Participant who Sponsor believes to be: (D) tampering with the entry process or the operation of the 
+Program or any related website; (E) acting in violation of these Terms and Conditions or Sponsor’s Privacy 
+Policy or other terms, conditions or guidelines; (F) acting in bad faith or a disruptive manner; (G) 
+disrupting or undermining the legitimate operation of the Program; or (H) annoying, abusing, threatening or 
+harassing You, any other Participant, or any other person associated with or not associated with the 
+Program. Sponsor reserves all rights and remedies to seek redress, including damages and other remedies, 
+from any such person to the fullest extent permitted by law. Sponsor also reserves the right to disqualify 
+any Participant if, in Sponsor's sole and absolute discretion, awarding a prize to such Participant would 
+violate any agreement between Sponsor and a Prize Sponsor, or would conflict with representations made 
+by a Prize Sponsor to Sponsor regarding prize eligibility restrictions. 
+Each Participant is limited to one (1) entry per person, e-mail address and account. Multiple entries by the 
+same Participant are prohibited. Any Participant who submits multiple entries or is found to control, in 
+whole or part, more than one (1) account shall be disqualified from the Program and shall be ineligible to 
+participate in or receive any payout prize.  
+If a Participant is disqualified from the Program, whether before, during or after conclusion of the Program, 
+that Participant shall not be entitled to participate in or receive any payout prizes. You understand, 
+acknowledge, and agree that a disqualification of any Participant shall not affect, change or modify the final 
+rankings in the Program and will not result in payout prizes being awarded to any alternate Participant, 
+including without limitation, any Participant with a lower, similar or higher final ranking than the 
+Participant who is disqualified.  You understand, acknowledge, and agree that all determinations and 
+decisions made by the Sponsor, in its sole and absolute discretion, regarding eligibility, violation of these 
+Terms and Conditions, disqualification, rankings, and payout prizes are final and are not subject to any 
+request for reconsideration, review or appeal by You. 
+Terms and Conditions are available at https://arena.ninjatrader.com/downloads/arena-terms-conditions.pdf 
+and You agree to read and abide by all Terms and Conditions. 
+2. THE PROGRAM PERIOD:  
+The Program begins and ends at the times and on the days set out on the Program Page (the “Program 
+Period”) for each individual trading competition.   
+3. TO PARTICIPATE:  
+To participate in the Program, you must complete each of the following activities (each a “Pre-Program 
+Period Activity”) prior to the beginning of the Program Period:  
+a. Visit arena.ninjatrader.com and either 1) login with your existing NinjaTrader user account credentials 
+or 2) create a new NinjaTrader Arena profile including email address verification and submission of 
+your first name, last name, and country of residency. All participants will create an Arena user profile 
+including an Alias which will be visible on the competition leaderboards.  For security purposes, 
+Participants should NOT use a user ID associated with any live trading account in their competition 
+profile. 
+b. Follow the on-screen instructions to select an individual trading competition; and  
+c. Follow the on-screen instructions to join a trading competition which includes a simulated trading 
+account which will include an initial virtual account balance in United States dollars as specified on the 
+Program Page.  This simulated trading account will allow Participants to simulate the trade of the 
+products and asset classes set out on the Program Page on a NinjaTrader platform provided by Sponsor. 
+ACCOUNT FUNDS PROVIDED AND TRADED ARE NOT ACTUAL CASH AND ARE NOT 
+EXCHANGEABLE FOR CASH. PARTICIPANTS WILL NOT RECEIVE ANY TRADING OR 
+OTHER PROFITS GENERATED BY TRADES IN THE PROGRAM OR EARNED IN CASH.  
+Then, during the Program Period, complete the  activity(s) specified on the Program Page for that 
+competition (e.g., trade during the Program Period with the goal of generating the highest virtual profit and 
+loss) (“Program Period Activity”, and together with the Pre-Program Period Activities, the “Activities”):  
+4. REQUIREMENTS:  
+Participants must complete the foregoing Program Period Activity before the expiry of the Program Period. 
+Activities completed following expiry of the Program Period will not be counted.  
+Please see the privacy policy located at https://ninjatrader.com/privacy-policy for details of Sponsor's 
+policy regarding the use of personal information collected in connection with this Program. Sponsor does 
+not sell personal information collected in connection with the Program, but employs a third-party 
+fulfillment provider, Realtime Media LLC (or any subsequent fulfillment provider, collectively “RTM”), 
+who will or may assist with administration of the Program and collect personal information in connection 
+with the services which it provides in connection with this Program. Sponsor may also share limited winner 
+information with a Prize Sponsor, if applicable, solely for prize delivery purposes, as described below. The 
+privacy policy for Realtime Media LLC may be found at 
+https://www.rtm.com/sweepstakes-legal-administration/data-security. By accessing the website for the 
+Sponsor, the website for RTM, the website for the Program, registering for the Program, or participating in 
+the Program, you affirmatively agree and consent to the collection, processing and limited sharing of Your 
+personal information in accordance with our Privacy Policy and to the receipt of communications and 
+requests from the Sponsor, RTM and, if applicable, the Prize Sponsor. If you do not consent to the 
+collection and sharing of personal information or receipt of such communications, you must notify the 
+Sponsor in writing before accessing the website for the Sponsor, the website for RTM, the website for the 
+Program, submitting an entry to the Program, and participating in the Program. You may opt-out at any 
+time by notifying the Sponsor,  RTM and, if applicable, the Prize Sponsor, in writing; opting out will result 
+in the automatic withdrawal from the Program and forfeiture of any prizes. If You are selected as a winner 
+of the Program, You consent and agree that Your information may also be included in a publicly available 
+winner’s list. Any registrations that do not comply with these Terms and Conditions will not be eligible to 
+win a prize. Sponsor reserves the right, in its sole and absolute discretion, to disqualify any Participants for 
+any reasons set forth in the Terms and Conditions and any entries that it finds unlawful, or in violation of 
+these Terms and Conditions, at the Sponsor’s sole and absolute discretion.  
+For competitions that include a Prize Sponsor, Sponsor may share a winning Participant's name, mailing 
+address, email address, and such other information as is reasonably necessary for the Prize Sponsor to 
+fulfill and deliver the applicable prize. By participating in a third party sponsored competition, You consent 
+to such disclosure. Sponsor will identify any Prize Sponsor on the Program Page prior to the start of the 
+competition. Sponsor is not responsible for the privacy practices of any Prize Sponsor; Participants should 
+review the applicable Prize Sponsor's privacy policy before participating in a sponsored competition. 
+Sponsor will contractually require each Prize Sponsor to use Participant data solely for prize fulfillment 
+purposes and not for any secondary marketing, solicitation, or other purpose without separate, express 
+consent from the Participant. 
+Participants who completely deplete their virtual account funds in connection with simulated trading 
+will not receive additional virtual account funds. Simulated trading accounts will not be replenished 
+during the Program Period. Please be aware the initial virtual account balance cannot be withdrawn 
+or redeemed, but is intended solely for the purpose of facilitating the simulated trading competition 
+in the Program.  Sponsor is not responsible for any trading errors or other failures. Commissions and 
+any fees from exchanges or regulators may be calculated in the account profit and loss calculations as 
+stipulated in the details of each trading challenge. Those who do not follow all the instructions above, 
+provide the required information in their enrollment form, or abide by these Terms and Conditions (or other 
+instructions of the Sponsor or the spirit thereof as interpreted by the Sponsor) may be disqualified. Should 
+multiple users of the same e-mail account participate in the Program, and a dispute thereafter arises 
+regarding the identity of the Participant, the authorized account holder of said e-mail account at the time of 
+entry will be considered the Participant. “Authorized account holder” is defined as the natural person who 
+is assigned an e-mail address by an Internet access provider, on-line service provider or other organization 
+which is responsible for assigning e-mail addresses or the domain associated with the submitted e-mail 
+address.    
+By participating Participants grant to Sponsor a perpetual, non-exclusive, irrevocable, fully paid, universal 
+license to use, copy, sublicense, transmit, distribute, publish, edit, delete, display, create derivatives works 
+of, and otherwise exploit Participant’s name, likeness, voice, quotes, comments, biographical information 
+together with other materials, in each case edited or altered as Sponsor sees fit, in any manner, in any media 
+now known or hereafter devised, without compensation for the purposes of managing, operating, further 
+developing and promoting the Program and the results thereof. Strictly to the extent permitted by applicable 
+law, Participants hereby waive any moral rights they may have in and to their entries.  
+By participating each Participant agrees that their participation is gratuitous and made without restriction, 
+and will not place Sponsor under any obligation, and that Sponsor is free to disclose the ideas contained in 
+the Participant’s trading activity on a non-confidential basis to anyone or otherwise use the ideas without 
+any additional compensation to the Participant. Each Participant acknowledges that, by acceptance of their 
+submission, Sponsor does not waive any right to use similar or related ideas previously known to Sponsor, 
+or developed by its employees, or obtained from sources other than Participant.  
+5. WINNER SELECTION:   
+Participants must complete each step listed above to be eligible for a prize. There will be a main 
+leaderboard (the “Overall Leaderboard”) to show each Participant’s total profit and loss across all trades 
+being made during the Program Period. There may be additional leaderboards (the “Alternate 
+Leaderboards”), which may be introduced by Sponsor at its sole and absolute discretion, based upon any 
+criteria. Participants will be automatically added to any such Alternate Leaderboards once they meet the 
+criteria to which an Alternate Leaderboard relates. If a Participant does not meet the criteria to which an 
+Alternate Leaderboard relates, they will not be added to the Alternate Leaderboard. Alternate Leaderboards 
+will show each Participant’s total virtual profit and virtual loss arising from trades in the trading challenge 
+to which the Alternate Leaderboard relates during the Program Period. The profit and loss for each 
+Participant’s virtual account will be calculated daily. Leaderboards may show rankings of top Participants, 
+but such leaderboard is for informational purposes only, is not official, may not be accurate, is subject to 
+modification, amendment, or revision by the Sponsor in its sole and absolute discretion, and should not be 
+relied upon in any way, including with respect to the awarding of prizes hereunder. Sponsor reserves the 
+right to modify, remove, or amend any Leaderboard in the event of any misconduct or in the event an error 
+is noted, in Sponsor’s sole and absolute discretion. When determining placement within all Leaderboards 
+for awarding prizes, all Leaderboards will be automatically calculated and reflected in the final virtual 
+account balance at the end of each trading competition.   
+The prospect of winning will depend on a variety of factors including, but not limited to, the number of 
+eligible entrants, and the skill of the entrants at trading.  
+For the Overall Leaderboard only:  
+The eligible Participants whose overall simulated trading activities during the Program Period result in a 
+total virtual profit and virtual loss based on U.S. dollar value that aligns with a predetermined prize 
+associated to performance ranking as outlined in the Program details for each individual trading challenge 
+will receive the prize (subject to verification and the tie-breaking restrictions below).   
+Each Participant will only be entitled to claim one (1) prize (as detailed in paragraph 6 below). The Sponsor 
+reserves the right to verify the identity and accuracy of submitted information of a winner and all relevant 
+related parties prior to awarding a prize. Additionally, Sponsor reserves the right to conduct a background 
+check on potential winners to ensure they are eligible and not subject to any sanctions administered or 
+imposed by the Office of Foreign Assets Control of the U.S. Department of the Treasury, the European 
+Union, HM Treasury, the United Nations Security Council, or any other government entity or regulatory 
+authority which has jurisdiction over the Participant. Sponsor’s decisions on all matters relating to the 
+Program are final and conclusive, to the extent permitted by applicable law. Potential winners will be 
+contacted by email by the Sponsor, RTM, or, if applicable, the Prize Sponsor within thirty (30) days from 
+the last day of the Program Period using the contact information given at the time of registration. For the 
+avoidance of doubt, all decisions regarding eligibility, winner selection, leaderboard rankings, and 
+disqualification are made exclusively by Sponsor in its capacity as Program Administrator, regardless of 
+whether a Prize Sponsor is involved in a particular competition. No Prize Sponsor has any authority to 
+influence, override, or modify any such decision. If winner email notification is returned as undeliverable, 
+or the winner cannot be located after the completion of the Program or is otherwise determined to be 
+ineligible or not in compliance with these Terms and Conditions as determined by the Sponsor or the 
+winner is disqualified, the prize may be forfeited and may not be awarded to any alternate Participant. 
+Sponsor, or Prize Sponsor if applicable, will not be responsible for delivery of prizes that are unable to be 
+awarded to Participants. You acknowledge, understand and agree that each potential winner may be 
+required to sign and return an Affidavit or Confirmation of Eligibility Statement, a copy of government 
+issued identification, forms required by applicable taxing authorities, including, but not limited to an IRS 
+Form W-9 or W-8BEN, a Liability Release and/or, where lawful, a Publicity Release within thirty (30) days 
+of attempted notification, to claim their prize and be verified as a winner. If a potential prize winner cannot 
+be contacted or fails to sign and return the Affidavit or Confirmation of Eligibility Statement, a copy of 
+government issued identifications, forms required by applicable taxing authorities, Liability Release and/or, 
+where lawful, a Publicity Release within thirty (30) days, or if any prize notification or prize is returned as 
+undeliverable, such prize may be forfeited and may not be awarded to any alternate Participant. The 
+Sponsor is not responsible for any change in email, mailing address and/or telephone number of 
+Participants. Each Participant shall be solely responsible for ensuring access to their account used in the 
+Program. Each Participant shall ensure that the information for the account used in the Program is current 
+and accurate and shall provide their current email, mailing address and/or telephone number to Sponsor, 
+upon request. Prizes which are not claimed within thirty (30) calendar days after the winner is notified via 
+email by the Sponsor, Prize Sponsor (if applicable), or by RTM will be forfeited and not awarded to any 
+alternate winner.  
+6. PRIZE DETAILS:  
+The prizes for the Overall Leaderboard, as defined on the Program Page, may include cash (payable in U.S. 
+Dollars, equivalent local currency, or virtual currency), cryptocurrency, merchandise, gift cards, 
+scholarships, internships, experiential awards, or any other goods or services as specified on the Program 
+Page for each individual competition. For competitions involving a Prize Sponsor, the nature, form, and 
+value of the prize provided by the Prize Sponsor will be specified on the Program Page prior to the 
+commencement of the competition. Sponsor makes no representation or warranty regarding the value, 
+quality, fitness for purpose, or merchantability of any prize provided by a Prize Sponsor. Each winner will 
+be solely responsible for currency conversion costs due to exchange rates and solely bear any risk of 
+valuation exposure due to changes in foreign exchange values. Non-cash prizes are provided 'as is' and no 
+cash substitution will be made except in Sponsor's sole and absolute discretion. 
+In the event of a tie in the Overall Leaderboard, the tie will be broken as demonstrated using the following 
+examples.  The following are provided for demonstration purposes only as the available prizes and number 
+of winners will vary by trading challenge.  
+Tie circumstances Prize distribution Example 
+If two (2) individuals are tied for 
+the highest total virtual profit and 
+loss based upon U.S. dollar 
+value: 
+First Place Prize for the Overall Leaderboard and 
+Second Place Prize for the Overall Leaderboard 
+will be combined and divided equally between the 
+two tied individuals. 
+ 
+If the First Place Prize for the 
+Overall Leaderboard is $2,000 and the 
+Second Place Prize for the Overall 
+Leaderboard is $1,000, each winner 
+will receive $1,500. 
+ 
+ 
+If three (3) individuals are tied 
+for the highest total virtual profit 
+and loss based on dollar value:  
+First Place Prize for the Overall Leaderboard, 
+Second Place Prize for the Overall Leaderboard, 
+and Third Place Prize for the Overall Leaderboard 
+will be combined and divided evenly between the 
+If the First Place Prize for the 
+Overall Leaderboard is $1,500, the 
+Second Place Prize for the Overall 
+three tied individuals (with no Second Place Prize 
+for the Overall Leaderboard or Third Place Prize 
+for the Overall Leaderboard winner)  
+Leaderboard is $1,000 and the Third 
+Place Prize for the Overall 
+Leaderboard is $500, each winner 
+will receive $1,000.  
+ 
+ 
+If more than three (3) individuals 
+are tied for the highest total 
+virtual profit and loss based on 
+dollar value: 
+First Place Prize for the Overall Leaderboard, 
+Second Place Prize for the Overall Leaderboard, 
+and Third Place Prize for the Overall Leaderboard 
+will be combined and divided evenly between all 
+tied individuals (with no Second Place Prize for the 
+Overall Leaderboard or Third Place Prize for the 
+Overall Leaderboard winner) 
+If the First Place Prize for the 
+Overall Leaderboard is $1,500, the 
+Second Place Prize for the Overall 
+Leaderboard is $1,000 and the Third 
+Place Prize for the Overall 
+Leaderboard is $500, each winner 
+will receive a sum equal to $3,000 
+divided by the number of tied 
+individuals. 
+ 
+If two (2) individuals are tied for 
+the second highest total virtual 
+profit and loss based on dollar 
+value: 
+Second Place Prize for the Overall Leaderboard 
+and Third Place Prize for the Overall Leaderboard 
+will be combined and divided evenly between the 
+two tied individuals (With no Third Place Prize for 
+the Overall Leaderboard winner) 
+If the Second Place Prize for the 
+Overall Leaderboard is $1,000 and 
+the Third Place Prize for the Overall 
+Leaderboard is $500, each winner 
+will receive $750. 
+ 
+If more than two (2) individuals 
+are tied for the second highest 
+total virtual profit and loss based 
+on dollar value: 
+Second Place Prize for the Overall Leaderboard 
+and Third Place Prize for the Overall Leaderboard 
+will be combined and divided evenly between all 
+tied individuals (with no Third Place Prize for the 
+Overall Leaderboard winner) 
+If the Second Place Prize for the Overall 
+Leaderboard is $1,000 and the Third 
+Place Prize for the Overall Leaderboard 
+is $500, each winner will receive a sum 
+equal to $1,500 divided by the number 
+of tied individuals. 
+If two (2) or more individuals 
+are tied for the third highest total 
+virtual profit and loss based on 
+dollar value: 
+Third Place Prize for the Overall Leaderboard will 
+be combined and divided evenly between all tied 
+individuals 
+If the Third Place Prize for the Overall 
+Leaderboard is $1,000 each winner will 
+receive a sum equal to $1,000 divided 
+by the number of tied individuals. 
+  
+Limit one (1) prize per person. Prizes are non-transferable and no substitution of prize is offered except at 
+the sole discretion of the Sponsor. If a prize, or any portion thereof, cannot be awarded for any reason, 
+Sponsor reserves the right to substitute prize with another prize of equal or greater value. For competitions 
+involving a Prize Sponsor, Sponsor's right to substitute a prize under this paragraph includes the right to 
+substitute a cash prize of equivalent fair market value in the event the Prize Sponsor's non-cash prize cannot 
+be delivered and Sponsor elects to make such substitution (see Prize Sponsor Default section below). 
+Winners will be solely responsible for all federal, state, provincial, territorial, and/or local taxes, and for 
+any other fees or costs associated with the prize they receive, regardless of whether it, in whole or in part, is 
+used. Winners will be solely responsible for complying with any tax reporting and payment obligations.  
+ 
+Taxes on Prizes. Prizes or awards, including the fair market value of goods and services Participants may 
+receive, are generally subject to U.S. federal income tax.  
+For Participants who are citizens or legal residents of the U.S., no tax withholding on prizes will be 
+withheld, but the winner must provide RTM and the Sponsor or, if applicable, the Prize Sponsor, with a 
+valid social security number or tax identification number and a completed IRS Form W-9 before any prize 
+will be awarded; citizens and legal residents of the U.S. will receive a Form 1099-MISC for income tax 
+purposes from RTM, the Sponsor or, if applicable, the Prize Sponsor.   
+For Participants who are nonresidents of the U.S., IRS regulations require that nonresidents who are 
+receiving a prize or award are subject to 30% federal withholding on the payment. Generally, tax treaty 
+provisions are not available to exempt a prize or award from the thirty percent (30%) tax withholding.  
+Accordingly, winning Participants who are nonresidents of the U.S. must provide the Sponsor, RTM or, if 
+applicable, the Prize Sponsor with a completed IRS Form W-8BEN, and any other IRS forms or tax related 
+documents as may be requested before the prize will be awarded; nonresidents of the U.S. will receive a 
+Form 1042-S from the Sponsor,  RTM or, if applicable, the Prize Sponsor. 
+Sponsor or, if applicable, the Prize Sponsor, may pay prize winners in U.S. Dollars (or equivalent in local 
+currency calculated at an exchange rate which Sponsor determines to be reasonable) or virtual currencies, 
+before any applicable taxes are deducted. Prize winners, whether foreign or domestic, are responsible for all 
+applicable taxes and shall hold Sponsor and, if applicable, the Prize Sponsor free, harmless and indemnified 
+with respect to payment of all applicable taxes associated with receipt or payment of prizes.  Neither the 
+Sponsor, the Prize Sponsor, if applicable, nor RTM provides tax or legal advice.  Each Participant should 
+consult with their own independent tax and legal professional to discuss individual tax obligations. You 
+acknowledge that You are not relying upon any information or advice from the Sponsor,  RTM or, if 
+applicable, the Prize Sponsor.  A household is deemed to include any winner and his/her/their family (as 
+defined by the Sponsor).  
+Non-Cash Prize Taxes. For non-cash Prizes provided by a Prize Sponsor, the fair market value of such 
+prize as determined by Prize Sponsor will be reported to applicable taxing authorities. Winners are solely 
+responsible for all federal, state, provincial, territorial, and local taxes arising from receipt of any prize, 
+whether cash or non-cash, and shall hold Sponsor and any Prize Sponsor free, harmless, and indemnified 
+with respect to all applicable taxes. The Prize Sponsor, and not Sponsor, shall be responsible for providing 
+Sponsor with a good-faith fair market valuation of any non-cash prize it provides, and Sponsor shall be 
+entitled to rely on such valuation for tax reporting purposes.  
+Prize Sponsor Default. If a Prize Sponsor fails to deliver or fund a promised prize for reasons beyond 
+Sponsor's reasonable control, including without limitation the Prize Sponsor's insolvency, dissolution, 
+material breach of its agreement with Sponsor, or inability to deliver the prize as described, Sponsor shall 
+have no obligation to substitute or fund such prize from its own resources. Sponsor will use commercially 
+reasonable efforts to notify affected winners of any prize delivery failure and will work in good faith with 
+the Prize Sponsor to resolve the issue. Sponsor's liability in connection with any Prize Sponsor's failure to 
+deliver a prize is expressly limited to such commercially reasonable notification and good-faith efforts. 
+7. GENERAL TERMS AND CONDITIONS:  
+Sponsor is not responsible for incorrect or inaccurate entry information, whether caused by Internet users or 
+by any of the equipment or programming associated with or utilized in the Program or by any technical or 
+human error which may occur in the processing of the registrations or simulated trades. Sponsor is not 
+responsible for computer system, phone line, hardware, software or program malfunctions, or other errors, 
+failures or delays in computer transmissions or network connections that are human or technical in nature. 
+Sponsor reserves the right to disqualify any Participant who tampers with the registration and/or trading 
+process, or any other element of the Program or any other participant, as determined by the Sponsor in its 
+sole and absolute discretion. Participants may not register with multiple email addresses nor may 
+Participants use any other device or artifice to register multiple times or as multiple participants. Any 
+Participant who participates or attempts to participate in the Program by or with multiple email addresses, 
+under multiple identities, or uses any device or artifice to register multiple times will be disqualified and 
+forfeits all prizes won. Sponsor reserves the right to cancel or suspend this Program should fraud, virus, 
+bugs, or other causes beyond the control of Sponsor corrupt the administration, security, or proper operation 
+of the Program. In the event of cancellation, Sponsor will award the prizes only to the eligible Participant(s) 
+who have completed all available required Activities prior to cancellation and whose trading activities have 
+resulted in the virtual total profit and loss performance based on U.S. dollar value that ranks with an aligned 
+predetermined prize at the point of cancellation of the Program (applies to the Overall Leaderboard). Ties 
+shall be handled in accordance with the tables set out in paragraph 6 as examples.  
+ 
+Sponsored Competition Cancellation. In the event that a Prize Sponsor withdraws from or materially 
+breaches its agreement with Sponsor prior to or during a competition, Sponsor reserves the right, in its sole 
+and absolute discretion, to: (a) continue the competition and substitute a prize of its choosing; (b) continue 
+the competition without a Prize Sponsor prize and award only such prizes as Sponsor has independently 
+committed to on the Program Page; or (c) cancel the competition entirely. Sponsor's cancellation rights 
+under this paragraph are in addition to and not in lieu of any cancellation rights set forth elsewhere in these 
+Terms and Conditions. 
+ 
+ 
+8. LIMITATION OF LIABILITY AND RELEASE:  
+ALL WEBSITES USED IN CONNECTION WITH THE PROGRAM, AND ALL CONTENT 
+ASSOCIATED THEREWITH, ARE PROVIDED "AS IS" AND "AS AVAILABLE" WITH ALL FAULTS 
+AND WITHOUT WARRANTY OF ANY KIND. TO THE FULLEST EXTENT PERMISSIBLE 
+PURSUANT TO APPLICABLE LAW, SPONSOR AND RTM EACH EXPRESSLY DISCLAIM ANY 
+WARRANTIES, EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES 
+OF MERCHANTABILITY, FITNESS FOR ANY PARTICULAR PURPOSE, AND 
+NON-INFRINGEMENT. SPONSOR AND RTM DO NOT WARRANT THE WEBSITES OR THE 
+CONTENT PROVIDED THROUGH IT, INCLUDING THE APPLICATION AND ASSOCIATED 
+APPLICATION CONTENT, TO BE AVAILABLE, ACCURATE, USEFUL, OR FREE OF ERRORS, 
+VIRUSES, OR OTHER HARMFUL COMPONENTS. YOU ARE SOLELY RESPONSIBLE FOR ANY 
+DAMAGE TO YOUR EQUIPMENT, SOFTWARE, LOSS OF DATA, OR OTHER HARM THAT 
+RESULTS FROM YOUR USE OF THIS WEBSITE (INCLUDING THE SERVICES). UNDER NO 
+CIRCUMSTANCES WILL THE SPONSOR OR RTM BE LIABLE FOR ANY SPECIAL, INDIRECT, 
+INCIDENTAL, CONSEQUENTIAL, PUNITIVE, OR EXEMPLARY DAMAGES ARISING OR 
+RELATED TO THIS WEBSITE, INCLUDING LOSS OF PROFITS, LOSS OF DATA, LOSS OF 
+BUSINESS OR ANTICIPATED SAVINGS, EVEN IF SPONSOR OR RTM OR THE AUTHORIZED 
+REPRESENTATIVE OF EITHER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH 
+DAMAGES. THESE LIMITATIONS WILL APPLY NOTWITHSTANDING ANY FAILURE OF 
+ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. 
+As a condition of participating, Participants agree (and agree to confirm in writing) to release Sponsor, its 
+affiliates, subsidiaries, retailers, sales representatives, distributors, and advertising, promotion and judging 
+agencies and all other service agencies involved with the Program, including RTM, and each and all of their 
+respective officers, directors, members, employees and agents (“Released Parties”), from any and all 
+liability, loss or damage incurred with respect to participating in the Program, including without limitation 
+the awarding, receipt, possession, and/or use or misuse of any prize. Except where prohibited by law, each 
+winner grants (and agrees to confirm this grant in writing, if requested) permission for Sponsor, RTM, and 
+those acting under their respective authority to use his/her name, photograph, voice and/or likeness, for 
+advertising and/or publicity purposes in all media now known or hereinafter invented without territorial or 
+time limitations and without compensation. 
+  
+Sponsor is not responsible for, and expressly disclaims any liability arising from, any acts or omissions of a 
+Prize Sponsor, including without limitation: (a) the Prize Sponsor's failure to deliver, fund, or make 
+available any prize; (b) any defect in, damage caused by, or dissatisfaction with any non-cash prize; (c) any 
+statements, representations, or communications made by a Prize Sponsor in connection with the 
+competition; or (d) any use by a Prize Sponsor of Participant data beyond the scope permitted under these 
+Terms and Conditions and Sponsor's data sharing requirements. This disclaimer applies regardless of 
+whether Sponsor had notice of the possibility of such harm. 
+ 
+9. BINDING ARBITRATION FOR PARTICIPANTS WHO ARE U.S. RESIDENTS:  
+Any controversy or claim arising out of or relating to the Program shall be settled by binding arbitration in 
+a the City of Chicago, County of Cook, State of Illinois or at such other location as may be mutually agreed 
+upon by the parties, in accordance with the procedural rules for commercial disputes set forth in the 
+Comprehensive Arbitration Rules and Procedures of JAMS (“JAMS Rules and Procedures”), then 
+prevailing, and judgment upon the award rendered by the arbitrator(s) may be entered in any court having 
+jurisdiction thereof. You agree that a hearing location in the City of Chicago, County of Cook, State of 
+Illinois is reasonable and convenient for You.  You agree that the arbitration will only be an individual 
+arbitration by and between You and the Sponsor and that You and Sponsor do not agree and are not willing 
+to submit to any arbitration asserted by any class or multiple individuals asserting claims on behalf of a 
+class of individuals. The arbitrator shall be selected pursuant to the JAMS Rules and Procedures. The 
+arbitrator shall apply Illinois law consistent with the Federal Arbitration Act and applicable statutes of 
+limitations and shall honor claims of privilege recognized at law. If You conclusively can demonstrate to 
+Sponsor that the filing fees of arbitration will be prohibitive as compared to the costs of litigation, Sponsor 
+will advance payment of as much of Your filing and hearing fees as Sponsor deems necessary to prevent 
+the arbitration from being cost-prohibitive, subject to Sponsor’s right to recover such advance payments 
+from You in the arbitration. You shall remain responsible for payment of all fees and costs associated with 
+the arbitration as may be determined by the arbitrator. If any part of this arbitration provision is deemed to 
+be invalid, unenforceable or illegal (other than that claims will not be arbitrated on a class or representative 
+basis), or otherwise conflicts with the rules and procedures established by JAMS, then the balance of this 
+arbitration provision shall remain in effect and shall be construed in accordance with its terms as if the 
+invalid, unenforceable, illegal or conflicting provision were not contained herein. If, however, the portion 
+that is deemed invalid, unenforceable, or illegal is that claims will not be arbitrated on a class or 
+representative basis, then the entirety of this arbitration provision shall be null and void, and neither 
+Participant nor Sponsor shall be entitled to arbitrate their dispute. Upon filing a demand for arbitration, all 
+parties to such arbitration shall have the right of discovery, which discovery shall be completed within sixty 
+days after the demand for arbitration is made, unless further extended by mutual agreement of the parties. 
+THE ARBITRATION OF DISPUTES PURSUANT TO THIS PARAGRAPH SHALL BE IN THE 
+PARTICIPANT’S INDIVIDUAL CAPACITY, AND NOT AS A PLAINTIFF OR CLASS MEMBER 
+IN ANY PURPORTED CLASS OR REPRESENTATIVE PROCEEDING. THE ARBITRATOR 
+MAY NOT CONSOLIDATE OR JOIN THE CLAIMS OF OTHER PERSONS OR PARTIES WHO 
+MAY BE SIMILARLY SITUATED. DO NOT PARTICIPATE IN THIS PROGRAM IF YOU DO 
+NOT AGREE TO HAVE ANY CLAIM OR CONTROVERSY ARBITRATED IN ACCORDANCE 
+WITH THESE TERMS AND CONDITIONS.  
+BY PARTICIPATING IN THE PROGRAM, EACH PARTICIPANT AGREES THAT TO THE EXTENT 
+PERMITTED BY APPLICABLE LAW: (1) ANY AND ALL DISPUTES, CLAIMS AND CAUSES OF 
+ACTION ARISING OUT OF OR CONNECTED WITH THE PROGRAM, OR ANY PRIZE AWARDED, 
+WILL BE RESOLVED INDIVIDUALLY THROUGH BINDING ARBITRATION AS SET FORTH 
+ABOVE, WITHOUT RESORT TO ANY FORM OF CLASS ACTION; (2) ANY AND ALL CLAIMS, 
+JUDGMENTS AND AWARDS WILL BE LIMITED TO ACTUAL THIRD-PARTY, OUT-OF- POCKET 
+COSTS INCURRED (IF ANY), BUT IN NO EVENT WILL ATTORNEYS' FEES BE AWARDED OR 
+RECOVERABLE; (3) UNDER NO CIRCUMSTANCES WILL ANY PARTICIPANT BE PERMITTED 
+TO OBTAIN ANY AWARD FOR, AND PARTICIPANT HEREBY KNOWINGLY AND EXPRESSLY 
+WAIVES ALL RIGHTS TO SEEK, PUNITIVE, INCIDENTAL, CONSEQUENTIAL OR SPECIAL 
+DAMAGES, LOST PROFITS AND/OR ANY OTHER DAMAGES, OTHER THAN ACTUAL OUT OF 
+POCKET EXPENSES, AND/OR ANY RIGHTS TO HAVE DAMAGES MULTIPLIED OR OTHERWISE 
+INCREASED; AND (4) PARTICIPANT'S REMEDIES ARE LIMITED TO A CLAIM FOR MONEY 
+DAMAGES (IF ANY) AND PARTICIPANT IRREVOCABLY WAIVES ANY RIGHT TO SEEK 
+INJUNCTIVE OR EQUITABLE RELIEF. SOME JURISDICTIONS DO NOT ALLOW THE 
+LIMITATIONS OR EXCLUSION OF LIABILITY, SO THE ABOVE MAY NOT APPLY TO EVERY 
+PARTICIPANT.  IF THE AGREEMENT TO ARBITRATE ONLY IN THE PARTICIPANT’S 
+INDIVIDUAL CAPACITY IS FOUND TO BE UNENFORCEABLE, THEN THIS SECTION 9 SHALL 
+BE RENDERED NULL AND VOID AND, IN SUCH CASE, YOU AGREE TO THE EXCLUSIVE 
+JURISDICTION OF STATE OR FEDERAL COURTS LOCATED IN THE CITY OF CHICAGO, 
+COUNTY OF COOK, STATE OF ILLINOIS FOR ANY ACTION OR CLAIM ARISING OUT OF OR 
+RELATING TO THE PROGRAM OR THESE TERMS AND CONDITIONS AND YOU 
+UNCONDITIONALLY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE COURTS LOCATED 
+IN THE CITY OF CHICAGO, COUNTY OF COOK AND STATE OF ILLINOIS. 
+For the avoidance of doubt, this arbitration provision applies solely to disputes between Participants and 
+Sponsor. Any claims by Participants against a Prize Sponsor arising from the Prize Sponsor's failure to 
+deliver a prize or other conduct of the Prize Sponsor are not subject to this arbitration provision and must 
+be pursued directly against the Prize Sponsor in a forum of competent jurisdiction. 
+10. GOVERNING LAW AND JURISDICTION:  
+These Terms and Conditions and the Program shall be governed by U.S. law and are subject to all 
+applicable federal, state, and local laws and regulations. All issues and questions concerning the 
+construction, validity, interpretation and enforceability of these Terms and Conditions, or the rights and 
+obligations of Participant and Sponsor in connection with the Program, shall be governed by, and construed 
+in accordance with, the laws of the State of Illinois, U.S.A., without giving effect to the conflict of laws 
+rules thereof, and any matters or proceedings which are not subject to arbitration as set forth in Section 9 of 
+these Terms and Conditions and/or for entering any judgment on an arbitration award, shall take place in 
+courts located in the City of Chicago, County of Cook, State of Illinois, United States.  
+11. SPONSOR AND PROGRAM ADMINISTRATION:  
+The Program is operated and administered by NinjaTrader, LLC located at 222 North LaSalle Street, Suite 
+1450, Chicago, Illinois 60601, with prize fulfillment support provided by Realtime Media LLC, 1001 
+Conshohocken State Road, Suite 2-100, Conshohocken, Pennsylvania, 19428, or any subsequent fulfillment 
+provider. For competitions that include a Prize Sponsor, the identity, address, and prize contribution of the 
+Prize Sponsor will be disclosed on the Program Page for the applicable competition. The Prize Sponsor's 
+involvement is limited to the funding and, if applicable, delivery of the prizes it has committed to provide 
+and does not extend to the operation, administration, or rules of the competition. 
+12. PRIZE SPONSOR ACKNOWLEDGMENT:   
+For competitions that include a Prize Sponsor: (a) Sponsor has entered into a written agreement with the 
+Prize Sponsor governing the terms of the Prize Sponsor's participation, including prize delivery obligations, 
+data use limitations, and brand usage rights; (b) the Prize Sponsor is an independent third party and not an 
+affiliate, subsidiary, or agent of Sponsor; (c) Sponsor does not endorse the Prize Sponsor's products, 
+services, educational programs, or business generally, and the Prize Sponsor's participation in the 
+competition should not be construed as any such endorsement; (d) any promotional materials issued by a 
+Prize Sponsor in connection with the competition are the sole responsibility of the Prize Sponsor, and 
+Sponsor is not responsible for the accuracy, completeness, or legality of any such materials; and (e) 
+participation in a sponsored competition does not create any relationship between the Participant and the 
+Prize Sponsor beyond what is necessary for prize delivery. 
+ 
+13. MISCELLANEOUS: 
+The Sponsor reserves the right to amend, modify and revise the Terms and Conditions at any time and for 
+any reason it deems reasonable or necessary, in its sole and absolute discretion, upon reasonable notice 
+posted on the website for the Program. The Sponsor may also modify or cancel the Programs at any time 
+and for any reason, in its sole and absolute discretion. In the event that the Sponsor elects to cancel the 
+Program, You understand and agree that the Sponsor shall have no obligation to award any prizes to any 
+Participants. 
+If any provision of these Terms and Conditions is found to be invalid, unlawful, or unenforceable, the 
+remaining provisions shall continue in full force and effect. The Sponsor's failure to enforce any right or 
+provision of these Terms and Conditions shall not constitute a waiver of such right or provision.  
+ 
+ 
+ 
+ 
+ 
+ 
+May 2026 
+The NinjaTrader Arena Cup 
+by NinjaTrader, LLC 
+a software development company. 
+ 
+Addendum to NinjaTrader Arena Entry and Agreement Terms and Conditions 
+This addendum (“Addendum”) supplements and forms part of the existing NinjaTrader Arena Terms and 
+Conditions, available at https://arena.ninjatrader.com/downloads/arena-terms-conditions.pdf (the 
+“General Terms”). Unless otherwise defined herein, all capitalized terms shall have the meaning given to 
+them in the General Terms. In the event of a conflict between this Addendum and the General Terms, this 
+Addendum shall control solely with respect to The NinjaTrader Arena Cup. 
+1. Separate Competition 
+The NinjaTrader Arena Cup is a distinct competition of skill offered by NinjaTrader, LLC (“Sponsor”). 
+Participation in The NinjaTrader Arena Cup is separate from and independent of other NinjaTrader Arena 
+competitions, though the General Terms remain applicable unless expressly modified by this Addendum. 
+For purposes of this Addendum, references in the General Terms to “Program” shall be read as references 
+to The NinjaTrader Arena Cup, instead of NinjaTrader Arena, and references to the “Program Page” shall 
+be read to refer to The NinjaTrader Arena Cup Competition Details page found at 
+http://arena.ninjatrader.com.  
+The Program will employ a multi-stage structure with qualifying rounds and a private, invitation-only 
+final competition round, unless otherwise determined by the Sponsor. 
+The dates, timing and length of rounds, prizes and amount of allowed participants, are all as specified on 
+the Program Page. 
+ 
+2. Eligibility 
+Eligibility for the Program shall follow Section 1 of the General Terms, with the following additions: 
+● Participants must qualify through registering, entering and participating in one of the designated 
+qualifying rounds.   
+● Participants are free to choose which of the qualifying rounds to enter, but may enter only one of 
+the qualifying rounds, unless Sponsor, in its sole discretion, otherwise allows participation in 
+more than one qualifying round.  
+● Participants who  impermissibly enter into more than one qualifying round will be subject to 
+Sponsor’s decision to retain only Participant’s original or most recent registration and the 
+nullification of any other Participant registrations. 
+● Each qualifying round is limited to the amount as specified on the Program Page for that 
+competition, and registration for each qualifying round may close upon registration of such 
+amount for a qualifying round or any other time as Sponsor may determine, in its sole and 
+absolute discretion.  
+● The final competition round is a private, invitation-only competition round.  
+● Eligibility for the final round will be determined based upon the criteria specified on the Program 
+Page for that competition, as determined by the Sponsor, in its sole and absolute discretion.  
+● Influencers and content creators (collectively “Influencers”) are public trading figures who may 
+be hired by Sponsor to promote the Program, participate in the competition and livestream 
+coverage thereof and/or coach non-Influencer participants.  
+ 
+● Participants and Influencers may compete on the same competition settings for each round.  
+3. Prizes 
+● Cash prizes can be won at both the qualifying and final round stages. Participants are only eligible 
+to win cash prizes in one qualifying round. 
+● Competition rankings for participants will not be affected by competition rankings for 
+Influencers.  For example, if an Influencer finishes 5th overall in a qualifying round, the 6th place 
+(non-Influencer) participant would receive the 5th place prize and/or a potential invitation to 
+advance to the final round stage. 
+● Influencers will not be eligible for monetary awards, cash prizes, or other prizes posted on the 
+Program Page in qualifying rounds or the final stage round. Notwithstanding anything above or 
+otherwise, Influencers may be invited by Sponsor to compete against other Influencers in the final 
+round stage for a separate prize(s).  
+● Winning participants may choose to have cash prizes transferred to their existing, funded trading 
+accounts held with Sponsor’s affiliated entity, NinjaTrader Clearing, LLC, if applicable, or 
+receive cash payment through Stripe (subject to Stripe availability in participant’s country) or 
+wire transfer.   
+● Offering and awarding of prizes may be coordinated, administered, and fulfilled through Realtime 
+Media LLC or any subsequent fulfillment provider. 
+● All prizes awarded will be subject to participant’s completing any required U.S. tax forms and 
+providing related information. 
+● The Sponsor reserves the right to conduct background checks and eligibility verifications for all 
+Program winners prior to awarding prizes. 
+● In addition to monetary awards, prizes may include trophies, titles, digital badges, or other 
+non-monetary recognition at Sponsor’s sole and absolute discretion. 
+● Section 6 (Prize Details) of the General Terms shall apply, except as modified herein. 
+4. Requirements 
+In addition to the use of personal information and license in regard to a participant’s name, image and 
+likeness provided for in Section 4 of the General Terms, the following additions shall apply: 
+● All qualifying rounds and the final round will be broadcast live on NinjaTrader Live. 
+ 
+● Participant aliases, performance (net PnL), picture, and any other information that participants 
+share with Sponsor may be displayed publicly in connection with the livestream of the Program 
+and for related Sponsor marketing purposes.  
+ 
+● Participants who do not agree with the use of their information and likeness for purposes of the 
+marketing and livestreaming of the Program should not enter nor participate in the Program. 
+ 
+5. Additional Rules 
+● The Program may include special challenges, bonus rounds, or other unique features announced 
+on the Program Page or during the NinjaTrader Live livestream, as may be determined by the 
+Sponsor in its sole and absolute discretion. 
+● The Sponsor reserves the right to amend, suspend, or cancel the Program at any time in 
+accordance with Section 12 of the General Terms. 
+6. Miscellaneous 
+This Addendum shall be governed by the same law and dispute resolution provisions set forth in Sections 
+9 and 10 of the General Terms. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+May 2026 
+ 
